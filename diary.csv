@@ -13,7 +13,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,The Man from Nowhere,2010,https://letterboxd.com/patrickmjones/film/the-man-from-nowhere/,,,,2012-12-17
 2019-01-03,Silent House,2011,https://letterboxd.com/patrickmjones/film/silent-house/,,,,2012-12-18
 2019-01-02,Sword of Desperation,2010,https://letterboxd.com/patrickmjones/film/sword-of-desperation/,,,jidaigeki,2012-12-23
-2019-01-02,Blood Rain,2005,https://letterboxd.com/patrickmjones/film/film:20134/,,,,2012-12-26
+2019-01-02,Blood Rain,2005,https://letterboxd.com/patrickmjones/film/blood-rain/,,,,2012-12-26
 2019-01-02,Meeting Evil,2012,https://letterboxd.com/patrickmjones/film/meeting-evil/,,,,2012-12-30
 2019-01-02,Django Unchained,2012,https://letterboxd.com/patrickmjones/film/django-unchained/,,,,2013-01-08
 2019-01-02,Deep Blue Sea,1999,https://letterboxd.com/patrickmjones/film/deep-blue-sea/,,,,2013-01-13
@@ -54,9 +54,9 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,Land of the Dead,2005,https://letterboxd.com/patrickmjones/film/land-of-the-dead/,,,,2013-10-03
 2019-01-02,Vengeance,2009,https://letterboxd.com/patrickmjones/film/vengeance/,,,,2013-10-04
 2019-01-02,Exiled,2006,https://letterboxd.com/patrickmjones/film/exiled/,,,,2013-10-06
-2019-01-02,Terra Nova,2008,https://letterboxd.com/patrickmjones/film/film:31688/,,,,2013-10-08
+2019-01-02,Terra Nova,2008,https://letterboxd.com/patrickmjones/film/terra-nova-2008/,,,,2013-10-08
 2019-01-02,Zodiac,2007,https://letterboxd.com/patrickmjones/film/zodiac/,,,,2013-10-12
-2019-01-02,The Traveler,2010,https://letterboxd.com/patrickmjones/film/film:30305/,,,,2013-10-14
+2019-01-02,The Traveler,2010,https://letterboxd.com/patrickmjones/film/the-traveler-2010/,,,,2013-10-14
 2019-01-02,Assault on Wall Street,2013,https://letterboxd.com/patrickmjones/film/assault-on-wall-street/,,,,2013-10-20
 2019-08-13,Memories,1995,https://letterboxd.com/patrickmjones/film/memories/,,,,2013-10-21
 2019-01-02,The Conjuring,2013,https://letterboxd.com/patrickmjones/film/the-conjuring/,,,,2013-10-27
@@ -340,7 +340,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,Rage,2014,https://letterboxd.com/patrickmjones/film/rage-2014/,,,,2016-09-06
 2019-01-02,The Finest Hours,2016,https://letterboxd.com/patrickmjones/film/the-finest-hours-2016/,,,,2016-09-11
 2019-01-02,ARQ,2016,https://letterboxd.com/patrickmjones/film/arq/,,,,2016-09-19
-2019-01-02,Sacrifice,2016,https://letterboxd.com/patrickmjones/film/film:328993/,,,,2016-09-25
+2019-01-02,Sacrifice,2016,https://letterboxd.com/patrickmjones/film/sacrifice-2016/,,,,2016-09-25
 2019-01-02,Lights Out,2016,https://letterboxd.com/patrickmjones/film/lights-out-2016/,,,,2016-10-29
 2019-01-02,Antichrist,2009,https://letterboxd.com/patrickmjones/film/antichrist/,,,,2016-11-05
 2019-01-02,Father's Day,2011,https://letterboxd.com/patrickmjones/film/fathers-day-2011/,,,,2016-11-08
@@ -373,7 +373,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,Yoga Hosers,2016,https://letterboxd.com/patrickmjones/film/yoga-hosers/,,,,2017-03-18
 2019-01-02,Kong: Skull Island,2017,https://letterboxd.com/patrickmjones/film/kong-skull-island/,,,,2017-03-21
 2019-01-02,Train to Busan,2016,https://letterboxd.com/patrickmjones/film/train-to-busan/,,,,2017-03-27
-2019-01-02,Come and Find Me,2016,https://letterboxd.com/patrickmjones/film/film:276273/,,,,2017-03-28
+2019-01-02,Come and Find Me,2016,https://letterboxd.com/patrickmjones/film/come-and-find-me/,,,,2017-03-28
 2019-08-21,Turbo Kid,2015,https://letterboxd.com/patrickmjones/film/turbo-kid/,,,,2017-03-29
 2019-01-02,The Texas Chainsaw Massacre: The Beginning,2006,https://letterboxd.com/patrickmjones/film/the-texas-chainsaw-massacre-the-beginning/,,,,2017-03-30
 2019-01-02,The Keeper of Lost Causes,2013,https://letterboxd.com/patrickmjones/film/the-keeper-of-lost-causes/,,,,2017-03-31
@@ -412,6 +412,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,You Get Me,2017,https://letterboxd.com/patrickmjones/film/you-get-me/,,,,2017-07-12
 2019-01-02,Salt and Fire,2016,https://letterboxd.com/patrickmjones/film/salt-and-fire/,,,,2017-07-27
 2019-01-02,Kristy,2014,https://letterboxd.com/patrickmjones/film/kristy/,,,,2017-07-30
+2019-12-31,Atomic Blonde,2017,https://letterboxd.com/patrickmjones/film/atomic-blonde/,,,theatrical,2017-08-01
 2019-01-02,From a House on Willow Street,2016,https://letterboxd.com/patrickmjones/film/from-a-house-on-willow-street/,,,,2017-08-13
 2019-01-02,Delicatessen,1991,https://letterboxd.com/patrickmjones/film/delicatessen/,,,,2017-08-17
 2019-01-02,The Dark Tower,2017,https://letterboxd.com/patrickmjones/film/the-dark-tower/,,,,2017-08-25
@@ -444,11 +445,13 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,Saw VI,2009,https://letterboxd.com/patrickmjones/film/saw-vi/,,,,2017-11-19
 2019-01-02,Saw 3D,2010,https://letterboxd.com/patrickmjones/film/saw-3d/,,,,2017-11-20
 2019-01-02,The Star,2017,https://letterboxd.com/patrickmjones/film/the-star-2017/,,,,2017-11-23
+2019-12-10,Life,2017,https://letterboxd.com/patrickmjones/film/life-2017/,,,bd,2017-11-25
 2019-01-02,Silent Hill,2006,https://letterboxd.com/patrickmjones/film/silent-hill/,,,,2017-11-26
 2019-01-02,Gerald's Game,2017,https://letterboxd.com/patrickmjones/film/geralds-game/,,,,2017-11-27
 2019-01-02,Jim & Andy: The Great Beyond,2017,https://letterboxd.com/patrickmjones/film/jim-andy-the-great-beyond/,,,,2017-12-05
 2019-01-02,#Horror,2015,https://letterboxd.com/patrickmjones/film/horror-2015/,,,,2017-12-10
 2019-01-02,The Lazarus Effect,2015,https://letterboxd.com/patrickmjones/film/the-lazarus-effect-2015/,,,,2017-12-13
+2019-12-01,Star Wars: The Last Jedi,2017,https://letterboxd.com/patrickmjones/film/star-wars-the-last-jedi/,,,theatrical,2017-12-17
 2019-01-02,Bedeviled,2016,https://letterboxd.com/patrickmjones/film/bedeviled/,,,,2017-12-18
 2019-01-02,Darkness Rising,2017,https://letterboxd.com/patrickmjones/film/darkness-rising/,,,,2017-12-19
 2019-01-02,Gremlins,1984,https://letterboxd.com/patrickmjones/film/gremlins/,,,,2017-12-25
@@ -474,18 +477,68 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,The Hunger Games: Mockingjay - Part 1,2014,https://letterboxd.com/patrickmjones/film/the-hunger-games-mockingjay-part-1/,,,,2018-03-12
 2019-01-02,A Wrinkle in Time,2018,https://letterboxd.com/patrickmjones/film/a-wrinkle-in-time-2018/,,,,2018-03-13
 2019-01-02,The Strangers: Prey at Night,2018,https://letterboxd.com/patrickmjones/film/the-strangers-prey-at-night/,,,,2018-03-14
+2019-12-01,Burn After Reading,2008,https://letterboxd.com/patrickmjones/film/burn-after-reading/,,,netflix,2018-03-14
+2019-12-01,The Rift,2016,https://letterboxd.com/patrickmjones/film/the-rift-2016/,,,netflix,2018-03-20
+2019-12-01,Bullet Head,2017,https://letterboxd.com/patrickmjones/film/bullet-head/,,,netflix,2018-03-22
+2019-12-01,2307: Winter's Dream,2016,https://letterboxd.com/patrickmjones/film/2307-winters-dream/,,,netflix,2018-03-25
+2019-12-01,The Invisible Guardian,2017,https://letterboxd.com/patrickmjones/film/the-invisible-guardian/,,,netflix,2018-03-29
+2019-12-01,Office,2015,https://letterboxd.com/patrickmjones/film/office-2015-1/,,,netflix,2018-03-30
 2019-01-02,Murder on the Orient Express,2017,https://letterboxd.com/patrickmjones/film/murder-on-the-orient-express-2017/,,,,2018-03-31
+2019-12-01,The Chase,2017,https://letterboxd.com/patrickmjones/film/the-chase-2017/,,,netflix,2018-04-01
+2019-12-01,The Bros,2017,https://letterboxd.com/patrickmjones/film/the-bros-2017/,,,netflix,2018-04-07
+2019-12-01,Day of the Dead: Bloodline,2018,https://letterboxd.com/patrickmjones/film/day-of-the-dead-bloodline/,,,netflix,2018-04-08
+2019-12-01,Forgotten,2017,https://letterboxd.com/patrickmjones/film/forgotten-2017/,,,netflix,2018-04-08
 2019-01-02,Traffik,2018,https://letterboxd.com/patrickmjones/film/traffik-2018/,,,,2018-04-26
 2019-01-02,Cabin Fever,2002,https://letterboxd.com/patrickmjones/film/cabin-fever/,,,,2018-04-28
+2019-12-01,Cabin Fever,2016,https://letterboxd.com/patrickmjones/film/cabin-fever-2016/,,,netflix,2018-04-28
 2019-01-02,Hard Boiled,1992,https://letterboxd.com/patrickmjones/film/hard-boiled/,,,,2018-04-30
+2019-12-01,Cargo,2017,https://letterboxd.com/patrickmjones/film/cargo-2017/,,,netflix,2018-05-30
+2019-12-01,Kaleidoscope,2016,https://letterboxd.com/patrickmjones/film/kaleidoscope-2016/,,,netflix,2018-06-01
 2019-01-02,Suspiria,1977,https://letterboxd.com/patrickmjones/film/suspiria/,,,,2018-06-09
 2019-08-24,Hereditary,2018,https://letterboxd.com/patrickmjones/film/hereditary/,,,theatrical,2018-06-14
+2019-12-01,Bad Match,2017,https://letterboxd.com/patrickmjones/film/bad-match/,,,netflix,2018-06-25
+2019-12-01,The Midnight After,2014,https://letterboxd.com/patrickmjones/film/the-midnight-after/,,,netflix,2018-06-26
+2019-12-01,The Staircase,2005,https://letterboxd.com/patrickmjones/film/the-staircase/,,,netflix,2018-07-08
+2019-12-01,The Invitation,2015,https://letterboxd.com/patrickmjones/film/the-invitation-2015/,,,netflix,2018-07-09
+2019-12-01,Tau,2018,https://letterboxd.com/patrickmjones/film/tau-2018/,,,netflix,2018-07-09
+2019-12-01,OtherLife,2017,https://letterboxd.com/patrickmjones/film/otherlife/,,,netflix,2018-07-10
+2019-12-01,The Boy,2016,https://letterboxd.com/patrickmjones/film/the-boy-2016/,,,netflix,2018-07-10
+2019-12-01,The Bad Batch,2016,https://letterboxd.com/patrickmjones/film/the-bad-batch/,,,netflix,2018-07-11
+2019-12-01,The Skin of the Wolf,2017,https://letterboxd.com/patrickmjones/film/the-skin-of-the-wolf/,,,netflix,2018-07-13
+2019-12-01,Jeruzalem,2015,https://letterboxd.com/patrickmjones/film/jeruzalem/,,,netflix,2018-07-14
+2019-12-01,Evolution,2015,https://letterboxd.com/patrickmjones/film/evolution-2015/,,,netflix,2018-07-18
 2019-01-02,Incredibles 2,2018,https://letterboxd.com/patrickmjones/film/incredibles-2/,,,,2018-07-21
+2019-12-01,Thumper,2017,https://letterboxd.com/patrickmjones/film/thumper/,,,netflix,2018-07-21
+2019-12-01,The Automatic Hate,2015,https://letterboxd.com/patrickmjones/film/the-automatic-hate/,,,netflix,2018-07-21
 2019-01-02,Only Yesterday,1991,https://letterboxd.com/patrickmjones/film/only-yesterday/,,,,2018-07-24
+2019-12-01,The Gift,2015,https://letterboxd.com/patrickmjones/film/the-gift-2015-1/,,,netflix,2018-07-24
+2019-12-01,Pandorum,2009,https://letterboxd.com/patrickmjones/film/pandorum/,,Yes,netflix,2018-07-24
+2019-12-01,Mr. Nobody,2009,https://letterboxd.com/patrickmjones/film/mr-nobody/,,,netflix,2018-07-26
+2019-12-01,Tusk,2014,https://letterboxd.com/patrickmjones/film/tusk-2014/,,,netflix,2018-07-27
 2019-01-02,The Equalizer 2,2018,https://letterboxd.com/patrickmjones/film/the-equalizer-2/,,,,2018-07-30
+2019-12-01,Jurassic Park III,2001,https://letterboxd.com/patrickmjones/film/jurassic-park-iii/,,,netflix,2018-08-02
+2019-12-01,The Lost World: Jurassic Park,1997,https://letterboxd.com/patrickmjones/film/the-lost-world-jurassic-park/,,,netflix,2018-08-02
+2019-12-01,Jurassic Park,1993,https://letterboxd.com/patrickmjones/film/jurassic-park/,,,netflix,2018-08-02
+2019-12-01,Son of a Gun,2014,https://letterboxd.com/patrickmjones/film/son-of-a-gun/,,,"netflix, a24",2018-08-03
+2019-12-01,Emelie,2015,https://letterboxd.com/patrickmjones/film/emelie/,,,netflix,2018-08-05
+2019-12-01,Bright,2017,https://letterboxd.com/patrickmjones/film/bright/,,,netflix,2018-08-06
+2019-12-01,Lakeview Terrace,2008,https://letterboxd.com/patrickmjones/film/lakeview-terrace/,,,netflix,2018-08-13
+2019-12-01,The New Daughter,2009,https://letterboxd.com/patrickmjones/film/the-new-daughter/,,,netflix,2018-08-17
 2019-01-02,Dr. No,1962,https://letterboxd.com/patrickmjones/film/dr-no/,,,,2018-08-19
+2019-12-01,The Rover,2014,https://letterboxd.com/patrickmjones/film/the-rover/1/,,Yes,"netflix, a24",2018-08-20
 2019-01-02,"Night Is Short, Walk on Girl",2017,https://letterboxd.com/patrickmjones/film/night-is-short-walk-on-girl/,,,,2018-08-21
+2019-12-01,Clouds of Sils Maria,2014,https://letterboxd.com/patrickmjones/film/clouds-of-sils-maria/,,,netflix,2018-08-27
+2019-12-01,Bleed,2016,https://letterboxd.com/patrickmjones/film/bleed-2016/,,,netflix,2018-08-31
+2019-12-01,The Lodgers,2017,https://letterboxd.com/patrickmjones/film/the-lodgers/,,,netflix,2018-08-31
+2019-12-01,Sweet Home,2015,https://letterboxd.com/patrickmjones/film/sweet-home-2015/,,,netflix,2018-09-03
+2019-12-01,Murder Party,2007,https://letterboxd.com/patrickmjones/film/murder-party/,,,netflix,2018-09-03
+2019-12-01,Anon,2018,https://letterboxd.com/patrickmjones/film/anon/,,,netflix,2018-09-05
+2019-12-01,Drifter,2016,https://letterboxd.com/patrickmjones/film/drifter-2016/,,,netflix,2018-09-05
+2019-12-21,Searching,2018,https://letterboxd.com/patrickmjones/film/searching-2018/,,,theatrical,2018-09-05
+2019-12-01,Hold the Dark,2018,https://letterboxd.com/patrickmjones/film/hold-the-dark/,,,netflix,2018-10-01
+2019-12-01,Apostle,2018,https://letterboxd.com/patrickmjones/film/apostle-2018/,,,netflix,2018-10-16
 2019-08-23,Mandy,2018,https://letterboxd.com/patrickmjones/film/mandy-2018/,,,bd,2018-11-03
+2019-12-01,Black Butterfly,2017,https://letterboxd.com/patrickmjones/film/black-butterfly/,,,netflix,2018-11-14
 2018-12-18,Pet Sematary,1989,https://letterboxd.com/patrickmjones/film/pet-sematary/,,,,2018-11-18
 2018-12-18,Truth or Dare,2017,https://letterboxd.com/patrickmjones/film/truth-or-dare-2017/,,,,2018-11-18
 2018-12-18,Cam,2018,https://letterboxd.com/patrickmjones/film/cam/,,,,2018-11-19
@@ -505,7 +558,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2018-12-26,Frances Ha,2012,https://letterboxd.com/patrickmjones/film/frances-ha/,,,,2018-12-25
 2018-12-26,Mortal Engines,2018,https://letterboxd.com/patrickmjones/film/mortal-engines/,,,,2018-12-25
 2018-12-30,Bird Box,2018,https://letterboxd.com/patrickmjones/film/bird-box/,,,,2018-12-29
-2018-12-31,Roma,2018,https://letterboxd.com/patrickmjones/film/roma-2018/,,,,2018-12-30
+2018-12-31,Roma,2018,https://letterboxd.com/patrickmjones/film/roma-2018/,,,"netflix, black-and-white",2018-12-30
 2019-01-01,Ma' Rosa,2016,https://letterboxd.com/patrickmjones/film/ma-rosa/,,,,2018-12-31
 2019-01-01,Sansho the Bailiff,1954,https://letterboxd.com/patrickmjones/film/sansho-the-bailiff/,,,jidaigeki,2018-12-31
 2019-01-01,In the Mood for Love,2000,https://letterboxd.com/patrickmjones/film/in-the-mood-for-love/,,,,2018-12-31
@@ -518,10 +571,12 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-20,A Tale of Two Sisters,2003,https://letterboxd.com/patrickmjones/film/a-tale-of-two-sisters/,,,,2019-01-19
 2019-01-20,You Might Be the Killer,2018,https://letterboxd.com/patrickmjones/film/you-might-be-the-killer/,,,,2019-01-20
 2019-01-28,Revenge,2017,https://letterboxd.com/patrickmjones/film/revenge-2017-1/,,,,2019-01-27
-2019-01-30,The Wizard of Oz,1939,https://letterboxd.com/patrickmjones/film/the-wizard-of-oz-1939/,,Yes,,2019-01-29
+2019-01-30,The Wizard of Oz,1939,https://letterboxd.com/patrickmjones/film/the-wizard-of-oz-1939/,,Yes,"theatrical, technicolor",2019-01-29
 2019-02-08,Serenity,2019,https://letterboxd.com/patrickmjones/film/serenity-2019/,,,,2019-02-07
 2019-02-11,Velvet Buzzsaw,2019,https://letterboxd.com/patrickmjones/film/velvet-buzzsaw/,,,,2019-02-10
 2019-02-17,Alita: Battle Angel,2019,https://letterboxd.com/patrickmjones/film/alita-battle-angel/,,,,2019-02-16
+2019-12-01,The Humanity Bureau,2017,https://letterboxd.com/patrickmjones/film/the-humanity-bureau/,,,netflix,2019-02-16
+2019-12-01,Fyre,2019,https://letterboxd.com/patrickmjones/film/fyre-2019/,,,netflix,2019-02-16
 2019-02-18,The Visitor,1979,https://letterboxd.com/patrickmjones/film/the-visitor-1979/,,,,2019-02-17
 2019-02-18,Personal Shopper,2016,https://letterboxd.com/patrickmjones/film/personal-shopper/,,,,2019-02-18
 2019-02-24,The Commuter,2018,https://letterboxd.com/patrickmjones/film/the-commuter/,,,,2019-02-24
@@ -613,7 +668,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-07-21,Final Destination,2000,https://letterboxd.com/patrickmjones/film/final-destination/,,,netflix,2019-07-21
 2019-07-23,Final Destination 2,2003,https://letterboxd.com/patrickmjones/film/final-destination-2/,,,netflix,2019-07-23
 2019-07-23,"Frankenstein's Monster's Monster, Frankenstein",2019,https://letterboxd.com/patrickmjones/film/frankensteins-monsters-monster-frankenstein/,,,"netflix, post-credits-scene, a24",2019-07-23
-2019-07-28,Once Upon a Time... in Hollywood,2019,https://letterboxd.com/patrickmjones/film/once-upon-a-time-in-hollywood/,,,"theatrical, post-credits-scene",2019-07-27
+2019-07-28,Once Upon a Time… in Hollywood,2019,https://letterboxd.com/patrickmjones/film/once-upon-a-time-in-hollywood/,,,"theatrical, post-credits-scene",2019-07-27
 2019-07-30,Kiki's Delivery Service,1989,https://letterboxd.com/patrickmjones/film/kikis-delivery-service/,,Yes,"theatrical, ghibli-fest-2019",2019-07-29
 2019-07-31,Crawl,2019,https://letterboxd.com/patrickmjones/film/crawl-2019/,,,,2019-07-30
 2019-08-04,Fast & Furious Presents: Hobbs & Shaw,2019,https://letterboxd.com/patrickmjones/film/fast-furious-presents-hobbs-shaw/,,,"post-credits-scene, theatrical",2019-08-03
@@ -648,7 +703,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-08-26,The Trader,2018,https://letterboxd.com/patrickmjones/film/the-trader/,,,"netflix, short",2019-08-26
 2019-08-27,My Neighbor Totoro,1988,https://letterboxd.com/patrickmjones/film/my-neighbor-totoro/,,Yes,"theatrical, ghibli-fest-2019",2019-08-26
 2019-08-28,Sacrilège,2017,https://letterboxd.com/patrickmjones/film/sacrilege-2017-1/,,,"criterion-channel, short",2019-08-28
-2019-08-28,La Haine,1995,https://letterboxd.com/patrickmjones/film/la-haine/,,,criterion-channel,2019-08-28
+2019-08-28,La Haine,1995,https://letterboxd.com/patrickmjones/film/la-haine/,,,"criterion-channel, black-and-white",2019-08-28
 2019-08-28,My Josephine,2003,https://letterboxd.com/patrickmjones/film/my-josephine/,,,"criterion-channel, short",2019-08-28
 2019-09-01,The Quiet Room,2018,https://letterboxd.com/patrickmjones/film/the-quiet-room-2018/,,,,2019-09-01
 2019-09-02,Angel Has Fallen,2019,https://letterboxd.com/patrickmjones/film/angel-has-fallen/,,,,2019-09-01
@@ -662,7 +717,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-09-14,BuyBust,2018,https://letterboxd.com/patrickmjones/film/buybust/,,,bd,2019-09-14
 2019-09-15,Mean Streets,1973,https://letterboxd.com/patrickmjones/film/mean-streets/,,,netflix,2019-09-14
 2019-09-15,Brutal Tales of Chivalry,1965,https://letterboxd.com/patrickmjones/film/brutal-tales-of-chivalry/,,,bd,2019-09-15
-2019-09-16,Who's That Knocking at My Door,1967,https://letterboxd.com/patrickmjones/film/whos-that-knocking-at-my-door/,,,netflix,2019-09-15
+2019-09-16,Who's That Knocking at My Door,1967,https://letterboxd.com/patrickmjones/film/whos-that-knocking-at-my-door/,,,"netflix, black-and-white",2019-09-15
 2019-09-16,The Yellow Handkerchief,1977,https://letterboxd.com/patrickmjones/film/the-yellow-handkerchief-1977/,,,bd,2019-09-16
 2019-09-17,Battle at Big Rock,2019,https://letterboxd.com/patrickmjones/film/battle-at-big-rock/,,,"short, youtube",2019-09-16
 2019-09-17,Enemy,2013,https://letterboxd.com/patrickmjones/film/enemy/,,,"netflix, a24",2019-09-16
@@ -679,9 +734,9 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-09-27,One Cut of the Dead,2017,https://letterboxd.com/patrickmjones/film/one-cut-of-the-dead/,,,amazon-prime,2019-09-26
 2019-09-28,Tigers Are Not Afraid,2017,https://letterboxd.com/patrickmjones/film/tigers-are-not-afraid/,,,amazon-prime,2019-09-28
 2019-09-29,Cold Skin,2017,https://letterboxd.com/patrickmjones/film/cold-skin/,,,amazon-prime,2019-09-28
-2019-09-29,Cimarron,1931,https://letterboxd.com/patrickmjones/film/cimarron/,,,amazon-prime,2019-09-29
+2019-09-29,Cimarron,1931,https://letterboxd.com/patrickmjones/film/cimarron/,,,"amazon-prime, black-and-white",2019-09-29
 2019-09-30,It Chapter Two,2019,https://letterboxd.com/patrickmjones/film/it-chapter-two/,,,theatrical,2019-09-29
-2019-09-30,The Apartment,1960,https://letterboxd.com/patrickmjones/film/the-apartment/,,,amazon-prime,2019-09-29
+2019-09-30,The Apartment,1960,https://letterboxd.com/patrickmjones/film/the-apartment/,,,"amazon-prime, black-and-white",2019-09-29
 2019-10-01,The Secret World of Arrietty,2010,https://letterboxd.com/patrickmjones/film/the-secret-world-of-arrietty/,,,"theatrical, ghibli-fest-2019",2019-09-30
 2019-10-02,The Shining,1980,https://letterboxd.com/patrickmjones/film/the-shining/1/,5,Yes,"theatrical, remastered",2019-10-01
 2019-10-03,Love on Delivery,1994,https://letterboxd.com/patrickmjones/film/love-on-delivery/,,Yes,,2019-10-02
@@ -695,33 +750,33 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-10-07,In the Tall Grass,2019,https://letterboxd.com/patrickmjones/film/in-the-tall-grass-2019/,,,netflix,2019-10-07
 2019-10-07,Road House,1989,https://letterboxd.com/patrickmjones/film/road-house/,,,netflix,2019-10-07
 2019-10-11,Ghostbusters,1984,https://letterboxd.com/patrickmjones/film/ghostbusters/1/,,Yes,theatrical,2019-10-10
-2019-10-12,Freaks,1932,https://letterboxd.com/patrickmjones/film/freaks/,,,"criterion-channel, pre-code",2019-10-12
-2019-10-12,Multiple Maniacs,1970,https://letterboxd.com/patrickmjones/film/multiple-maniacs/,,,criterion-channel,2019-10-12
+2019-10-12,Freaks,1932,https://letterboxd.com/patrickmjones/film/freaks/,,,"criterion-channel, pre-code, black-and-white",2019-10-12
+2019-10-12,Multiple Maniacs,1970,https://letterboxd.com/patrickmjones/film/multiple-maniacs/,,,"criterion-channel, black-and-white",2019-10-12
 2019-10-12,Möbius,2016,https://letterboxd.com/patrickmjones/film/mobius-2016/,,,"criterion-channel, short",2019-10-12
 2019-10-12,In Search of the Miraculous,2015,https://letterboxd.com/patrickmjones/film/in-search-of-the-miraculous-2015/,,,"vimeo, short",2019-10-12
 2019-10-13,El Camino: A Breaking Bad Movie,2019,https://letterboxd.com/patrickmjones/film/el-camino-a-breaking-bad-movie/,,,netflix,2019-10-12
 2019-10-13,High Life,2018,https://letterboxd.com/patrickmjones/film/high-life-2018/,,,"amazon-prime, a24",2019-10-13
 2019-10-13,Begone Dull Care,1949,https://letterboxd.com/patrickmjones/film/begone-dull-care/,,,"short, criterion-channel",2019-10-13
-2019-10-14,M,1931,https://letterboxd.com/patrickmjones/film/m/,,,"criterion-collection, bd",2019-10-13
-2019-10-14,Conversation with Fritz Lang,1975,https://letterboxd.com/patrickmjones/film/conversation-with-fritz-lang/,,,"bd, criterion-collection",2019-10-13
-2019-10-15,The Stranger,1946,https://letterboxd.com/patrickmjones/film/the-stranger/,,,netflix,2019-10-14
-2019-10-15,Roundhay Garden Scene,1888,https://letterboxd.com/patrickmjones/film/roundhay-garden-scene/,,,youtube,2019-10-15
-2019-10-15,Traffic Crossing Leeds Bridge,1888,https://letterboxd.com/patrickmjones/film/traffic-crossing-leeds-bridge/,,,youtube,2019-10-15
+2019-10-14,M,1931,https://letterboxd.com/patrickmjones/film/m/,,,"criterion-collection, bd, black-and-white",2019-10-13
+2019-10-14,Conversation with Fritz Lang,1975,https://letterboxd.com/patrickmjones/film/conversation-with-fritz-lang/,,,"bd, criterion-collection, black-and-white",2019-10-13
+2019-10-15,The Stranger,1946,https://letterboxd.com/patrickmjones/film/the-stranger/,,,"netflix, black-and-white",2019-10-14
+2019-10-15,Roundhay Garden Scene,1888,https://letterboxd.com/patrickmjones/film/roundhay-garden-scene/,,,"youtube, black-and-white",2019-10-15
+2019-10-15,Traffic Crossing Leeds Bridge,1888,https://letterboxd.com/patrickmjones/film/traffic-crossing-leeds-bridge/,,,"youtube, black-and-white",2019-10-15
 2019-10-16,Alien,1979,https://letterboxd.com/patrickmjones/film/alien/,,,theatrical,2019-10-15
 2019-10-16,Jackie Brown,1997,https://letterboxd.com/patrickmjones/film/jackie-brown/,,,netflix,2019-10-16
 2019-10-19,The Forest of Love,2019,https://letterboxd.com/patrickmjones/film/the-forest-of-love/,,,netflix,2019-10-19
 2019-10-19,Psychokinesis,2018,https://letterboxd.com/patrickmjones/film/psychokinesis/,,,netflix,2019-10-19
 2019-10-20,The Head Hunter,2018,https://letterboxd.com/patrickmjones/film/the-head-hunter-2018/,,,amazon-prime,2019-10-19
 2019-10-20,Stalker,1979,https://letterboxd.com/patrickmjones/film/stalker/,,,"criterion-collection, bd",2019-10-20
-2019-10-21,Song at Midnight,1937,https://letterboxd.com/patrickmjones/film/song-at-midnight/,,,amazon-prime,2019-10-20
+2019-10-21,Song at Midnight,1937,https://letterboxd.com/patrickmjones/film/song-at-midnight/,,,"amazon-prime, black-and-white",2019-10-20
 2019-10-22,Maleficent: Mistress of Evil,2019,https://letterboxd.com/patrickmjones/film/maleficent-mistress-of-evil/,,,theatrical,2019-10-21
-2019-10-24,Nosferatu,1922,https://letterboxd.com/patrickmjones/film/nosferatu/,,,amazon-prime,2019-10-23
-2019-10-24,Falling Leaves,1912,https://letterboxd.com/patrickmjones/film/falling-leaves-1912/,,,short,2019-10-24
-2019-10-24,A Sticky Woman,1906,https://letterboxd.com/patrickmjones/film/a-sticky-woman/,,,"youtube, short",2019-10-24
-2019-10-24,The Glue,1907,https://letterboxd.com/patrickmjones/film/the-glue/,,,"youtube, short",2019-10-24
-2019-10-24,The Cabbage-Patch Fairy,1896,https://letterboxd.com/patrickmjones/film/the-cabbage-patch-fairy/,,,"youtube, short",2019-10-24
-2019-10-24,Serpentine Dance by Mme. Bob Walter,1899,https://letterboxd.com/patrickmjones/film/serpentine-dance-by-mme-bob-walter/,,,"youtube, short",2019-10-24
-2019-10-25,Some Like It Hot,1959,https://letterboxd.com/patrickmjones/film/some-like-it-hot/,,,amazon-prime,2019-10-25
+2019-10-24,Nosferatu,1922,https://letterboxd.com/patrickmjones/film/nosferatu/,,,"amazon-prime, black-and-white",2019-10-23
+2019-10-24,Falling Leaves,1912,https://letterboxd.com/patrickmjones/film/falling-leaves-1912/,,,"short, black-and-white",2019-10-24
+2019-10-24,A Sticky Woman,1906,https://letterboxd.com/patrickmjones/film/a-sticky-woman/,,,"youtube, short, black-and-white",2019-10-24
+2019-10-24,The Glue,1907,https://letterboxd.com/patrickmjones/film/the-glue/,,,"youtube, short, black-and-white",2019-10-24
+2019-10-24,The Cabbage-Patch Fairy,1896,https://letterboxd.com/patrickmjones/film/the-cabbage-patch-fairy/,,,"youtube, short, black-and-white",2019-10-24
+2019-10-24,Serpentine Dance by Mme. Bob Walter,1899,https://letterboxd.com/patrickmjones/film/serpentine-dance-by-mme-bob-walter/,,,"youtube, short, black-and-white",2019-10-24
+2019-10-25,Some Like It Hot,1959,https://letterboxd.com/patrickmjones/film/some-like-it-hot/,,,"amazon-prime, black-and-white",2019-10-25
 2019-10-25,24 Frames Per Second,1977,https://letterboxd.com/patrickmjones/film/24-frames-per-second/,,,"criterion-channel, short",2019-10-25
 2019-10-25,The Beaning,2017,https://letterboxd.com/patrickmjones/film/the-beaning/,,,"criterion-channel, short",2019-10-25
 2019-10-26,The Pleasure of Being Robbed,2008,https://letterboxd.com/patrickmjones/film/the-pleasure-of-being-robbed/,,,"criterion-channel, debut",2019-10-26
@@ -729,42 +784,119 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-10-27,The Rocky Horror Picture Show,1975,https://letterboxd.com/patrickmjones/film/the-rocky-horror-picture-show/,,,amazon-prime,2019-10-26
 2019-10-27,Tell Me Who I Am,2019,https://letterboxd.com/patrickmjones/film/tell-me-who-i-am/,,,netflix,2019-10-27
 2019-10-27,American Gigolo,1980,https://letterboxd.com/patrickmjones/film/american-gigolo/,,,criterion-channel,2019-10-27
-2019-10-28,Night Nurse,1931,https://letterboxd.com/patrickmjones/film/night-nurse/,,,"criterion-channel, pre-code",2019-10-27
+2019-10-28,Night Nurse,1931,https://letterboxd.com/patrickmjones/film/night-nurse/,,,"criterion-channel, pre-code, black-and-white",2019-10-27
 2019-10-31,Spirited Away,2001,https://letterboxd.com/patrickmjones/film/spirited-away/1/,,Yes,"theatrical, ghibli-fest-2019",2019-10-28
-2019-10-30,The Purchase Price,1932,https://letterboxd.com/patrickmjones/film/the-purchase-price/,,,"criterion-channel, pre-code",2019-10-30
-2019-10-30,Ladies They Talk About,1933,https://letterboxd.com/patrickmjones/film/ladies-they-talk-about/,,,"criterion-channel, pre-code",2019-10-30
-2019-10-31,Baby Face,1933,https://letterboxd.com/patrickmjones/film/baby-face/,,,"criterion-channel, pre-code",2019-10-30
-2019-10-31,24 Hours in the Life of a Clown,1946,https://letterboxd.com/patrickmjones/film/24-hours-in-the-life-of-a-clown/,,,"criterion-channel, short",2019-10-30
-2019-11-01,Illicit,1931,https://letterboxd.com/patrickmjones/film/illicit/,,,"criterion-channel, pre-code",2019-10-31
-2019-11-03,The Lighthouse,2019,https://letterboxd.com/patrickmjones/film/the-lighthouse-2019/,,,"a24, theatrical",2019-11-02
+2019-10-30,The Purchase Price,1932,https://letterboxd.com/patrickmjones/film/the-purchase-price/,,,"criterion-channel, pre-code, black-and-white",2019-10-30
+2019-10-30,Ladies They Talk About,1933,https://letterboxd.com/patrickmjones/film/ladies-they-talk-about/,,,"criterion-channel, pre-code, black-and-white",2019-10-30
+2019-10-31,Baby Face,1933,https://letterboxd.com/patrickmjones/film/baby-face/,,,"criterion-channel, pre-code, black-and-white",2019-10-30
+2019-10-31,24 Hours in the Life of a Clown,1946,https://letterboxd.com/patrickmjones/film/24-hours-in-the-life-of-a-clown/,,,"criterion-channel, short, black-and-white",2019-10-30
+2019-11-01,Illicit,1931,https://letterboxd.com/patrickmjones/film/illicit/,,,"criterion-channel, pre-code, black-and-white",2019-10-31
+2019-11-03,The Lighthouse,2019,https://letterboxd.com/patrickmjones/film/the-lighthouse-2019/,,,"a24, theatrical, black-and-white",2019-11-02
 2019-11-11,Doctor Sleep,2019,https://letterboxd.com/patrickmjones/film/doctor-sleep/,,,theatrical,2019-11-10
 2019-11-11,The Farewell,2019,https://letterboxd.com/patrickmjones/film/the-farewell-2019/,,,"amazon-prime, a24",2019-11-10
-2019-11-11,Rebel Without a Cause,1955,https://letterboxd.com/patrickmjones/film/rebel-without-a-cause/,,,netflix,2019-11-10
+2019-11-11,Rebel Without a Cause,1955,https://letterboxd.com/patrickmjones/film/rebel-without-a-cause/,,,"netflix, black-and-white",2019-11-10
 2019-11-15,Charlie's Angels,2019,https://letterboxd.com/patrickmjones/film/charlies-angels-2019/,,,"theatrical, post-credits-scene",2019-11-14
-2019-11-17,Terminator: Dark Fate,2019,https://letterboxd.com/patrickmjones/film/terminator-dark-fate/,,,theatrical,2019-11-16
+2019-11-17,Terminator: Dark Fate,2019,https://letterboxd.com/patrickmjones/film/terminator-dark-fate/,,,"theatrical, regal-unlimited",2019-11-16
 2019-11-17,Krampus,2015,https://letterboxd.com/patrickmjones/film/krampus/,,,amazon-prime,2019-11-16
-2019-11-18,Even Dwarfs Started Small,1970,https://letterboxd.com/patrickmjones/film/even-dwarfs-started-small/,,,criterion-channel,2019-11-17
+2019-11-18,Even Dwarfs Started Small,1970,https://letterboxd.com/patrickmjones/film/even-dwarfs-started-small/,,,"criterion-channel, black-and-white",2019-11-17
 2019-11-18,"Aguirre, the Wrath of God",1972,https://letterboxd.com/patrickmjones/film/aguirre-the-wrath-of-god/,,,criterion-channel,2019-11-17
 2019-11-18,Heart of Glass,1976,https://letterboxd.com/patrickmjones/film/heart-of-glass/,,,criterion-channel,2019-11-17
-2019-11-18,Carnival of Souls,1962,https://letterboxd.com/patrickmjones/film/carnival-of-souls/,,,criterion-channel,2019-11-17
+2019-11-18,Carnival of Souls,1962,https://letterboxd.com/patrickmjones/film/carnival-of-souls/,,,"criterion-channel, black-and-white",2019-11-17
 2019-11-19,Princess Mononoke,1997,https://letterboxd.com/patrickmjones/film/princess-mononoke/,,Yes,"theatrical, ghibli-fest-2019",2019-11-18
 2019-11-20,The Devils,1971,https://letterboxd.com/patrickmjones/film/the-devils/,,,criterion-channel,2019-11-19
 2019-11-20,Man in the Well,2016,https://letterboxd.com/patrickmjones/film/man-in-the-well/,,,"criterion-channel, short",2019-11-19
-2019-11-20,Intervals,1969,https://letterboxd.com/patrickmjones/film/intervals/,,,"criterion-channel, short",2019-11-19
+2019-11-20,Intervals,1969,https://letterboxd.com/patrickmjones/film/intervals/,,,"criterion-channel, short, black-and-white",2019-11-19
 2019-11-20,Windows,1975,https://letterboxd.com/patrickmjones/film/windows-1975/,,,"criterion-channel, short",2019-11-19
 2019-11-20,H Is for House,1973,https://letterboxd.com/patrickmjones/film/h-is-for-house/,,,"criterion-channel, short",2019-11-20
 2019-11-21,Next Floor,2008,https://letterboxd.com/patrickmjones/film/next-floor/,,,"criterion-channel, short",2019-11-20
 2019-11-21,The Conversation,1974,https://letterboxd.com/patrickmjones/film/the-conversation/,,,"criterion-channel, palme-d'or",2019-11-20
 2019-11-21,Death of the Sound Man,2017,https://letterboxd.com/patrickmjones/film/death-of-the-sound-man/,,,"criterion-channel, short",2019-11-20
-2019-11-22,The Body Snatcher,1945,https://letterboxd.com/patrickmjones/film/the-body-snatcher/,,,criterion-channel,2019-11-21
+2019-11-22,The Body Snatcher,1945,https://letterboxd.com/patrickmjones/film/the-body-snatcher/,,,"criterion-channel, black-and-white",2019-11-21
 2019-11-23,Five Easy Pieces,1970,https://letterboxd.com/patrickmjones/film/five-easy-pieces/,,,criterion-channel,2019-11-22
 2019-11-24,Blood Feast,1963,https://letterboxd.com/patrickmjones/film/blood-feast/,,,criterion-channel,2019-11-23
 2019-11-24,The King of Marvin Gardens,1972,https://letterboxd.com/patrickmjones/film/the-king-of-marvin-gardens/,,,criterion-channel,2019-11-23
 2019-11-24,Uncle Boonmee Who Can Recall His Past Lives,2010,https://letterboxd.com/patrickmjones/film/uncle-boonmee-who-can-recall-his-past-lives/,,,"criterion-channel, palme-d'or",2019-11-24
 2019-11-25,"I, Daniel Blake",2016,https://letterboxd.com/patrickmjones/film/i-daniel-blake/,,,"netflix, palme-d'or",2019-11-24
 2019-11-25,Winter Sleep,2014,https://letterboxd.com/patrickmjones/film/winter-sleep/,,,"amazon-prime, palme-d'or",2019-11-24
-2019-11-26,The Red Shoes,1948,https://letterboxd.com/patrickmjones/film/the-red-shoes/,,,"criterion-channel, restored",2019-11-26
-2019-11-27,The Adventures of Prince Achmed,1926,https://letterboxd.com/patrickmjones/film/the-adventures-of-prince-achmed/,,,criterion-channel,2019-11-26
+2019-11-26,The Red Shoes,1948,https://letterboxd.com/patrickmjones/film/the-red-shoes/,,,"criterion-channel, restored, technicolor",2019-11-26
+2019-11-27,The Adventures of Prince Achmed,1926,https://letterboxd.com/patrickmjones/film/the-adventures-of-prince-achmed/,,,"criterion-channel, animated",2019-11-26
 2019-11-27,The Last Detail,1973,https://letterboxd.com/patrickmjones/film/the-last-detail/,,,criterion-channel,2019-11-27
 2019-11-28,Knives Out,2019,https://letterboxd.com/patrickmjones/film/knives-out-2019/,,,"theatrical, regal-unlimited",2019-11-27
-2019-11-28,Rashomon,1950,https://letterboxd.com/patrickmjones/film/rashomon/,,Yes,"criterion-channel, restored, jidaigeki",2019-11-27
+2019-11-28,Rashomon,1950,https://letterboxd.com/patrickmjones/film/rashomon/,,Yes,"criterion-channel, restored, jidaigeki, black-and-white",2019-11-27
+2019-11-29,An American in Paris,1951,https://letterboxd.com/patrickmjones/film/an-american-in-paris/,,,"criterion-channel, best-picture, technicolor",2019-11-28
+2019-11-29,Crocus,1971,https://letterboxd.com/patrickmjones/film/crocus/,,,"criterion-channel, short",2019-11-28
+2019-11-29,A Girl Walks Home Alone at Night,2014,https://letterboxd.com/patrickmjones/film/a-girl-walks-home-alone-at-night/,,,"criterion-channel, black-and-white",2019-11-29
+2019-12-01,Daisies,1966,https://letterboxd.com/patrickmjones/film/daisies/,,,"criterion-channel, black-and-white",2019-11-30
+2019-12-01,Burning Cane,2019,https://letterboxd.com/patrickmjones/film/burning-cane/,,,netflix,2019-11-30
+2019-12-02,Moonrise,1948,https://letterboxd.com/patrickmjones/film/moonrise/,,,"criterion-collection, bd, black-and-white",2019-12-01
+2019-12-02,Tokyo Drifter,1966,https://letterboxd.com/patrickmjones/film/tokyo-drifter/,,,"bd, criterion-collection",2019-12-01
+2019-12-03,Ash Is Purest White,2018,https://letterboxd.com/patrickmjones/film/ash-is-purest-white/,,,amazon-prime,2019-12-02
+2019-12-05,I Lost My Body,2019,https://letterboxd.com/patrickmjones/film/i-lost-my-body/,,,"netflix, animated",2019-12-04
+2019-12-05,The Squid and the Whale,2005,https://letterboxd.com/patrickmjones/film/the-squid-and-the-whale/,,,netflix,2019-12-05
+2019-12-06,Man of Tai Chi,2013,https://letterboxd.com/patrickmjones/film/man-of-tai-chi/,,,netflix,2019-12-05
+2019-12-06,Dead Kids,2019,https://letterboxd.com/patrickmjones/film/dead-kids/,,,"netflix, hdr",2019-12-06
+2019-12-08,Marriage Story,2019,https://letterboxd.com/patrickmjones/film/marriage-story-2019/,,,"netflix, hdr",2019-12-07
+2019-12-08,The Nightingale,2018,https://letterboxd.com/patrickmjones/film/the-nightingale-2018/,,,amazon-prime,2019-12-07
+2019-12-09,Blue Is the Warmest Color,2013,https://letterboxd.com/patrickmjones/film/blue-is-the-warmest-color/,,,"netflix, palme-d'or",2019-12-08
+2019-12-09,Dheepan,2015,https://letterboxd.com/patrickmjones/film/dheepan/,,,"amazon-prime, palme-d'or",2019-12-08
+2019-12-09,Sweetheart,2019,https://letterboxd.com/patrickmjones/film/sweetheart-2019/,,,amazon-prime,2019-12-08
+2019-12-09,Hair Love,2019,https://letterboxd.com/patrickmjones/film/hair-love/,,,"youtube, short",2019-12-09
+2019-12-10,Amour,2012,https://letterboxd.com/patrickmjones/film/amour/,,Yes,"amazon-prime, palme-d'or",2019-12-09
+2019-12-10,Ghosts of Sugar Land,2019,https://letterboxd.com/patrickmjones/film/ghosts-of-sugar-land/,,,"netflix, short",2019-12-10
+2019-12-12,Three on a Match,1932,https://letterboxd.com/patrickmjones/film/three-on-a-match/,,,"criterion-channel, black-and-white, pre-code",2019-12-11
+2019-12-16,The Petrified Forest,1936,https://letterboxd.com/patrickmjones/film/the-petrified-forest/,,,"criterion-channel, black-and-white",2019-12-15
+2019-12-16,Kid Galahad,1937,https://letterboxd.com/patrickmjones/film/kid-galahad/,,,"criterion-channel, black-and-white",2019-12-15
+2019-12-16,We're Going to the Zoo,2006,https://letterboxd.com/patrickmjones/film/were-going-to-the-zoo/,,,"criterion-channel, short",2019-12-15
+2019-12-16,The Acquaintances of a Lonely John,2008,https://letterboxd.com/patrickmjones/film/the-acquaintances-of-a-lonely-john/,,,"criterion-channel, short",2019-12-15
+2019-12-16,The Black Balloon,2012,https://letterboxd.com/patrickmjones/film/the-black-balloon-2012/,,,"criterion-channel, short",2019-12-15
+2019-12-16,John's Gone,2010,https://letterboxd.com/patrickmjones/film/johns-gone/,,,"criterion-channel, short",2019-12-15
+2019-12-16,Marked Woman,1937,https://letterboxd.com/patrickmjones/film/marked-woman/,,,"criterion-channel, black-and-white",2019-12-15
+2019-12-17,The Villainess,2017,https://letterboxd.com/patrickmjones/film/the-villainess/,,,amazon-prime,2019-12-16
+2019-12-18,Fast Color,2018,https://letterboxd.com/patrickmjones/film/fast-color/,,,amazon-prime,2019-12-17
+2019-12-19,In Fabric,2018,https://letterboxd.com/patrickmjones/film/in-fabric/,,,"amazon-prime, hdr, a24",2019-12-18
+2019-12-21,Vivre Sa Vie,1962,https://letterboxd.com/patrickmjones/film/vivre-sa-vie/,,,"criterion-channel, black-and-white",2019-12-20
+2019-12-22,Atlantics,2019,https://letterboxd.com/patrickmjones/film/atlantics-2019/,,,"netflix, debut",2019-12-21
+2019-12-22,From Russia with Love,1963,https://letterboxd.com/patrickmjones/film/from-russia-with-love/,,,"bd, restored",2019-12-21
+2019-12-22,Goldfinger,1964,https://letterboxd.com/patrickmjones/film/goldfinger/,,,"bd, restored",2019-12-21
+2019-12-23,Thunderball,1965,https://letterboxd.com/patrickmjones/film/thunderball/,,,"bd, restored",2019-12-22
+2019-12-23,You Only Live Twice,1967,https://letterboxd.com/patrickmjones/film/you-only-live-twice/,,,"bd, restored",2019-12-22
+2019-12-23,On Her Majesty's Secret Service,1969,https://letterboxd.com/patrickmjones/film/on-her-majestys-secret-service/,,,"bd, restored",2019-12-22
+2019-12-24,Diamonds Are Forever,1971,https://letterboxd.com/patrickmjones/film/diamonds-are-forever/,,,"bd, restored",2019-12-23
+2019-12-24,Cats,2019,https://letterboxd.com/patrickmjones/film/cats-2019/,,,"theatrical, pre-patch, regal-unlimited",2019-12-23
+2019-12-24,The Irishman,2019,https://letterboxd.com/patrickmjones/film/the-irishman-2019/,,,"netflix, hdr",2019-12-23
+2019-12-24,The Irishman: In Conversation,2019,https://letterboxd.com/patrickmjones/film/the-irishman-in-conversation/,,,"netflix, hdr",2019-12-23
+2019-12-25,Lionheart,2018,https://letterboxd.com/patrickmjones/film/lionheart-2018/,,,netflix,2019-12-24
+2019-12-25,Dolemite Is My Name,2019,https://letterboxd.com/patrickmjones/film/dolemite-is-my-name/,,,"netflix, hdr",2019-12-24
+2019-12-25,Uncut Gems,2019,https://letterboxd.com/patrickmjones/film/uncut-gems/,,,"theatrical, a24, regal-unlimited",2019-12-24
+2019-12-25,The Body Remembers When the World Broke Open,2019,https://letterboxd.com/patrickmjones/film/the-body-remembers-when-the-world-broke-open/,,,"netflix, single-take",2019-12-24
+2019-12-26,Star Wars: The Rise of Skywalker,2019,https://letterboxd.com/patrickmjones/film/star-wars-the-rise-of-skywalker/,,,"theatrical, regal-unlimited",2019-12-25
+2019-12-26,It's a Wonderful Life,1946,https://letterboxd.com/patrickmjones/film/its-a-wonderful-life/,,Yes,"amazon-prime, colorized",2019-12-25
+2019-12-26,Border,2018,https://letterboxd.com/patrickmjones/film/border-2018/,,,amazon-prime,2019-12-25
+2019-12-26,Let the Corpses Tan,2017,https://letterboxd.com/patrickmjones/film/let-the-corpses-tan/,,,bd,2019-12-25
+2019-12-27,The Blood on Satan's Claw,1971,https://letterboxd.com/patrickmjones/film/the-blood-on-satans-claw/,,,bd,2019-12-26
+2019-12-27,Touching the Devil: The Making of 'Blood on Satan's Claw',2004,https://letterboxd.com/patrickmjones/film/touching-the-devil-the-making-of-blood-on-satans-claw/,,,bd,2019-12-26
+2019-12-27,The Blood on Satan's Claw: In a League of Its Own,2005,https://letterboxd.com/patrickmjones/film/the-blood-on-satans-claw-in-a-league-of-its-own/,,,bd,2019-12-26
+2019-12-27,Viy,1967,https://letterboxd.com/patrickmjones/film/viy/,,,bd,2019-12-26
+2019-12-27,Portrait,1915,https://letterboxd.com/patrickmjones/film/portrait-1915/,,,"bd, short, black-and-white",2019-12-26
+2019-12-27,The Queen of Spades,1910,https://letterboxd.com/patrickmjones/film/the-queen-of-spades-1910/,,,"bd, short, black-and-white",2019-12-26
+2019-12-28,Seconds,1966,https://letterboxd.com/patrickmjones/film/seconds/,,,"bd, black-and-white, criterion-collection",2019-12-27
+2019-12-28,Little Women,2019,https://letterboxd.com/patrickmjones/film/little-women-2019/,,,"theatrical, regal-unlimited",2019-12-27
+2019-12-28,Rebecca,1940,https://letterboxd.com/patrickmjones/film/rebecca/,,,"black-and-white, bd, criterion-collection, best-picture",2019-12-27
+2019-12-28,The Making of Rebecca,2008,https://letterboxd.com/patrickmjones/film/the-making-of-rebecca/,,,"bd, criterion-collection, short",2019-12-27
+2019-12-29,Marty,1955,https://letterboxd.com/patrickmjones/film/marty/,,,"bd, black-and-white, best-picture, palme-d'or",2019-12-28
+2019-12-29,Buffet Froid,1979,https://letterboxd.com/patrickmjones/film/buffet-froid/,,,bd,2019-12-28
+2019-12-29,Broken Flowers,2005,https://letterboxd.com/patrickmjones/film/broken-flowers/,,Yes,bd,2019-12-28
+2019-12-29,Ruined Heart: Another Love Story Between a Criminal & a Whore,2014,https://letterboxd.com/patrickmjones/film/ruined-heart-another-love-story-between-a-criminal-a-whore/,,,bd,2019-12-28
+2019-12-30,Leviathan,2014,https://letterboxd.com/patrickmjones/film/leviathan-2014/,,,bd,2019-12-29
+2019-12-30,The Last Black Man in San Francisco,2019,https://letterboxd.com/patrickmjones/film/the-last-black-man-in-san-francisco/,,,"amazon-prime, debut, a24",2019-12-29
+2019-12-31,Miracle in Cell No. 7,2013,https://letterboxd.com/patrickmjones/film/miracle-in-cell-no-7/,,,amazon-prime,2019-12-30
+2019-12-31,Aniara,2018,https://letterboxd.com/patrickmjones/film/aniara-2018/,,,"amazon-prime, debut",2019-12-30
+2019-12-31,Tin Toy,1988,https://letterboxd.com/patrickmjones/film/tin-toy/,,,youtube,2019-12-30
+2020-01-01,"The Gangster, the Cop, the Devil",2019,https://letterboxd.com/patrickmjones/film/the-gangster-the-cop-the-devil/,,,amazon-prime,2019-12-31
+2020-01-01,Unstoppable,2018,https://letterboxd.com/patrickmjones/film/unstoppable-2018/,,,amazon-prime,2019-12-31
+2020-01-01,Black Narcissus,1947,https://letterboxd.com/patrickmjones/film/black-narcissus/,,,"bd, criterion-collection, restored, technicolor",2019-12-31
+2020-01-02,Häxan,1922,https://letterboxd.com/patrickmjones/film/haxan/,,,"bd, criterion-collection, black-and-white, silent, restored",2020-01-01
+2020-01-02,The Audacious Adventurer,2006,https://letterboxd.com/patrickmjones/film/the-audacious-adventurer/,,,"bd, criterion-collection, short",2020-01-01
+2020-01-02,Painting with Light,2000,https://letterboxd.com/patrickmjones/film/painting-with-light/,,,"bd, criterion-collection, short",2020-01-01
+2020-01-02,Urban Rashomon,2013,https://letterboxd.com/patrickmjones/film/urban-rashomon/,,,"criterion-channel, short",2020-01-01
+2020-01-02,Dark Star,1974,https://letterboxd.com/patrickmjones/film/dark-star/,,,"criterion-channel, debut",2020-01-01

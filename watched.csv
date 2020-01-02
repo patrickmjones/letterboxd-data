@@ -136,7 +136,7 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,The Keeper of Lost Causes,2013,https://letterboxd.com/film/the-keeper-of-lost-causes/
 2019-01-02,The Texas Chainsaw Massacre: The Beginning,2006,https://letterboxd.com/film/the-texas-chainsaw-massacre-the-beginning/
 2019-01-02,Turbo Kid,2015,https://letterboxd.com/film/turbo-kid/
-2019-01-02,Come and Find Me,2016,https://letterboxd.com/film/film:276273/
+2019-01-02,Come and Find Me,2016,https://letterboxd.com/film/come-and-find-me/
 2019-01-02,Train to Busan,2016,https://letterboxd.com/film/train-to-busan/
 2019-01-02,Kong: Skull Island,2017,https://letterboxd.com/film/kong-skull-island/
 2019-01-02,Arrival,2016,https://letterboxd.com/film/arrival-2016/
@@ -168,7 +168,7 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,Father's Day,2011,https://letterboxd.com/film/fathers-day-2011/
 2019-01-02,Antichrist,2009,https://letterboxd.com/film/antichrist/
 2019-01-02,Lights Out,2016,https://letterboxd.com/film/lights-out-2016/
-2019-01-02,Sacrifice,2016,https://letterboxd.com/film/film:328993/
+2019-01-02,Sacrifice,2016,https://letterboxd.com/film/sacrifice-2016/
 2019-01-02,ARQ,2016,https://letterboxd.com/film/arq/
 2019-01-02,The Finest Hours,2016,https://letterboxd.com/film/the-finest-hours-2016/
 2019-01-02,Synchronicity,2015,https://letterboxd.com/film/synchronicity-2015/
@@ -452,9 +452,9 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,Evil Dead,2013,https://letterboxd.com/film/evil-dead/
 2019-01-02,Memories,1995,https://letterboxd.com/film/memories/
 2019-01-02,Assault on Wall Street,2013,https://letterboxd.com/film/assault-on-wall-street/
-2019-01-02,The Traveler,2010,https://letterboxd.com/film/film:30305/
+2019-01-02,The Traveler,2010,https://letterboxd.com/film/the-traveler-2010/
 2019-01-02,Zodiac,2007,https://letterboxd.com/film/zodiac/
-2019-01-02,Terra Nova,2008,https://letterboxd.com/film/film:31688/
+2019-01-02,Terra Nova,2008,https://letterboxd.com/film/terra-nova-2008/
 2019-01-02,Exiled,2006,https://letterboxd.com/film/exiled/
 2019-01-02,Vengeance,2009,https://letterboxd.com/film/vengeance/
 2019-01-02,Land of the Dead,2005,https://letterboxd.com/film/land-of-the-dead/
@@ -495,7 +495,7 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,Taken 2,2012,https://letterboxd.com/film/taken-2/
 2019-01-02,Django Unchained,2012,https://letterboxd.com/film/django-unchained/
 2019-01-02,Meeting Evil,2012,https://letterboxd.com/film/meeting-evil/
-2019-01-02,Blood Rain,2005,https://letterboxd.com/film/film:20134/
+2019-01-02,Blood Rain,2005,https://letterboxd.com/film/blood-rain/
 2019-01-02,Sword of Desperation,2010,https://letterboxd.com/film/sword-of-desperation/
 2019-01-02,Silent House,2011,https://letterboxd.com/film/silent-house/
 2019-01-02,Dog Eat Dog,2008,https://letterboxd.com/film/dog-eat-dog-2008/
@@ -611,7 +611,7 @@ Date,Name,Year,Letterboxd URI
 2019-07-21,Final Destination,2000,https://letterboxd.com/film/final-destination/
 2019-07-23,Final Destination 2,2003,https://letterboxd.com/film/final-destination-2/
 2019-07-23,"Frankenstein's Monster's Monster, Frankenstein",2019,https://letterboxd.com/film/frankensteins-monsters-monster-frankenstein/
-2019-07-28,Once Upon a Time... in Hollywood,2019,https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+2019-07-28,Once Upon a Time… in Hollywood,2019,https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 2019-07-30,Kiki's Delivery Service,1989,https://letterboxd.com/film/kikis-delivery-service/
 2019-07-31,Crawl,2019,https://letterboxd.com/film/crawl-2019/
 2019-08-04,Fast & Furious Presents: Hobbs & Shaw,2019,https://letterboxd.com/film/fast-furious-presents-hobbs-shaw/
@@ -1045,3 +1045,232 @@ Date,Name,Year,Letterboxd URI
 2019-11-27,The Last Detail,1973,https://letterboxd.com/film/the-last-detail/
 2019-11-28,Knives Out,2019,https://letterboxd.com/film/knives-out-2019/
 2019-11-28,Rashomon,1950,https://letterboxd.com/film/rashomon/
+2019-11-29,An American in Paris,1951,https://letterboxd.com/film/an-american-in-paris/
+2019-11-29,Crocus,1971,https://letterboxd.com/film/crocus/
+2019-11-29,Haywire,2011,https://letterboxd.com/film/haywire/
+2019-11-29,Ocean's Eleven,2001,https://letterboxd.com/film/oceans-eleven-2001/
+2019-11-29,Erin Brockovich,2000,https://letterboxd.com/film/erin-brockovich/
+2019-11-29,A Girl Walks Home Alone at Night,2014,https://letterboxd.com/film/a-girl-walks-home-alone-at-night/
+2019-12-01,Daisies,1966,https://letterboxd.com/film/daisies/
+2019-12-01,Burning Cane,2019,https://letterboxd.com/film/burning-cane/
+2019-12-01,Apostle,2018,https://letterboxd.com/film/apostle-2018/
+2019-12-01,Hold the Dark,2018,https://letterboxd.com/film/hold-the-dark/
+2019-12-01,Anon,2018,https://letterboxd.com/film/anon/
+2019-12-01,Drifter,2016,https://letterboxd.com/film/drifter-2016/
+2019-12-01,Sweet Home,2015,https://letterboxd.com/film/sweet-home-2015/
+2019-12-01,Murder Party,2007,https://letterboxd.com/film/murder-party/
+2019-12-01,Bleed,2016,https://letterboxd.com/film/bleed-2016/
+2019-12-01,The Lodgers,2017,https://letterboxd.com/film/the-lodgers/
+2019-12-01,The New Daughter,2009,https://letterboxd.com/film/the-new-daughter/
+2019-12-01,Emelie,2015,https://letterboxd.com/film/emelie/
+2019-12-01,Son of a Gun,2014,https://letterboxd.com/film/son-of-a-gun/
+2019-12-01,Jurassic Park III,2001,https://letterboxd.com/film/jurassic-park-iii/
+2019-12-01,The Lost World: Jurassic Park,1997,https://letterboxd.com/film/the-lost-world-jurassic-park/
+2019-12-01,Tusk,2014,https://letterboxd.com/film/tusk-2014/
+2019-12-01,Mr. Nobody,2009,https://letterboxd.com/film/mr-nobody/
+2019-12-01,The Gift,2015,https://letterboxd.com/film/the-gift-2015-1/
+2019-12-01,Thumper,2017,https://letterboxd.com/film/thumper/
+2019-12-01,The Automatic Hate,2015,https://letterboxd.com/film/the-automatic-hate/
+2019-12-01,Evolution,2015,https://letterboxd.com/film/evolution-2015/
+2019-12-01,Jeruzalem,2015,https://letterboxd.com/film/jeruzalem/
+2019-12-01,The Skin of the Wolf,2017,https://letterboxd.com/film/the-skin-of-the-wolf/
+2019-12-01,The Bad Batch,2016,https://letterboxd.com/film/the-bad-batch/
+2019-12-01,OtherLife,2017,https://letterboxd.com/film/otherlife/
+2019-12-01,The Boy,2016,https://letterboxd.com/film/the-boy-2016/
+2019-12-01,The Invitation,2015,https://letterboxd.com/film/the-invitation-2015/
+2019-12-01,Tau,2018,https://letterboxd.com/film/tau-2018/
+2019-12-01,The Staircase,2005,https://letterboxd.com/film/the-staircase/
+2019-12-01,The Midnight After,2014,https://letterboxd.com/film/the-midnight-after/
+2019-12-01,Bad Match,2017,https://letterboxd.com/film/bad-match/
+2019-12-01,Kaleidoscope,2016,https://letterboxd.com/film/kaleidoscope-2016/
+2019-12-01,Cargo,2017,https://letterboxd.com/film/cargo-2017/
+2019-12-01,Cabin Fever,2016,https://letterboxd.com/film/cabin-fever-2016/
+2019-12-01,Day of the Dead: Bloodline,2018,https://letterboxd.com/film/day-of-the-dead-bloodline/
+2019-12-01,Forgotten,2017,https://letterboxd.com/film/forgotten-2017/
+2019-12-01,The Bros,2017,https://letterboxd.com/film/the-bros-2017/
+2019-12-01,The Chase,2017,https://letterboxd.com/film/the-chase-2017/
+2019-12-01,Office,2015,https://letterboxd.com/film/office-2015-1/
+2019-12-01,The Invisible Guardian,2017,https://letterboxd.com/film/the-invisible-guardian/
+2019-12-01,2307: Winter's Dream,2016,https://letterboxd.com/film/2307-winters-dream/
+2019-12-01,Bullet Head,2017,https://letterboxd.com/film/bullet-head/
+2019-12-01,The Rift,2016,https://letterboxd.com/film/the-rift-2016/
+2019-12-01,Black Butterfly,2017,https://letterboxd.com/film/black-butterfly/
+2019-12-01,The Humanity Bureau,2017,https://letterboxd.com/film/the-humanity-bureau/
+2019-12-01,Fyre,2019,https://letterboxd.com/film/fyre-2019/
+2019-12-01,Kung Fu Hustle,2004,https://letterboxd.com/film/kung-fu-hustle/
+2019-12-01,Shaolin Soccer,2001,https://letterboxd.com/film/shaolin-soccer/
+2019-12-01,The God of Cookery,1996,https://letterboxd.com/film/the-god-of-cookery/
+2019-12-01,King of Beggars,1992,https://letterboxd.com/film/king-of-beggars/
+2019-12-01,Royal Tramp,1992,https://letterboxd.com/film/royal-tramp/
+2019-12-01,Tricky Brains,1991,https://letterboxd.com/film/tricky-brains/
+2019-12-01,Royal Tramp 2,1992,https://letterboxd.com/film/royal-tramp-2/
+2019-12-01,Curry and Pepper,1990,https://letterboxd.com/film/curry-and-pepper/
+2019-12-01,Hero,2002,https://letterboxd.com/film/hero-2002/
+2019-12-01,Unleashed,2005,https://letterboxd.com/film/unleashed/
+2019-12-01,Fist of Legend,1994,https://letterboxd.com/film/fist-of-legend/
+2019-12-01,Kiss of the Dragon,2001,https://letterboxd.com/film/kiss-of-the-dragon/
+2019-12-01,Cradle 2 the Grave,2003,https://letterboxd.com/film/cradle-2-the-grave/
+2019-12-01,The Legend of Fong Sai Yuk,1993,https://letterboxd.com/film/the-legend-of-fong-sai-yuk/
+2019-12-01,Black Mask,1996,https://letterboxd.com/film/black-mask/
+2019-12-01,Tai-Chi Master,1993,https://letterboxd.com/film/tai-chi-master/
+2019-12-01,The Enforcer,1995,https://letterboxd.com/film/the-enforcer-1995/
+2019-12-01,Enter the Dragon,1973,https://letterboxd.com/film/enter-the-dragon/
+2019-12-01,Fist of Fury,1972,https://letterboxd.com/film/fist-of-fury/
+2019-12-01,The Big Boss,1971,https://letterboxd.com/film/the-big-boss/
+2019-12-01,Rush Hour,1998,https://letterboxd.com/film/rush-hour/
+2019-12-01,Rush Hour 2,2001,https://letterboxd.com/film/rush-hour-2/
+2019-12-01,Drunken Master,1978,https://letterboxd.com/film/drunken-master/
+2019-12-01,Rumble in the Bronx,1995,https://letterboxd.com/film/rumble-in-the-bronx/
+2019-12-01,The Medallion,2003,https://letterboxd.com/film/the-medallion/
+2019-12-01,Mr. Nice Guy,1997,https://letterboxd.com/film/mr-nice-guy/
+2019-12-01,Fearless Hyena,1979,https://letterboxd.com/film/fearless-hyena/
+2019-12-01,"Crouching Tiger, Hidden Dragon",2000,https://letterboxd.com/film/crouching-tiger-hidden-dragon/
+2019-12-01,A Better Tomorrow,1986,https://letterboxd.com/film/a-better-tomorrow/
+2019-12-01,The Killer,1989,https://letterboxd.com/film/the-killer/
+2019-12-01,Raise the Red Lantern,1991,https://letterboxd.com/film/raise-the-red-lantern/
+2019-12-01,Hannibal Rising,2007,https://letterboxd.com/film/hannibal-rising/
+2019-12-01,Red Sorghum,1987,https://letterboxd.com/film/red-sorghum/
+2019-12-01,Chinese Box,1997,https://letterboxd.com/film/chinese-box/
+2019-12-01,Star Wars: The Last Jedi,2017,https://letterboxd.com/film/star-wars-the-last-jedi/
+2019-12-01,Kick-Ass,2010,https://letterboxd.com/film/kick-ass/
+2019-12-01,Hot Fuzz,2007,https://letterboxd.com/film/hot-fuzz/
+2019-12-01,Shaun of the Dead,2004,https://letterboxd.com/film/shaun-of-the-dead/
+2019-12-01,Star Trek,2009,https://letterboxd.com/film/star-trek/
+2019-12-01,Sleuth,2007,https://letterboxd.com/film/sleuth-2007/
+2019-12-02,Moonrise,1948,https://letterboxd.com/film/moonrise/
+2019-12-02,Tokyo Drifter,1966,https://letterboxd.com/film/tokyo-drifter/
+2019-12-03,Green Street Hooligans,2005,https://letterboxd.com/film/green-street-hooligans/
+2019-12-03,Deep Impact,1998,https://letterboxd.com/film/deep-impact/
+2019-12-03,The Good Son,1993,https://letterboxd.com/film/the-good-son/
+2019-12-03,Maniac,2012,https://letterboxd.com/film/maniac-2012/
+2019-12-03,Ash Is Purest White,2018,https://letterboxd.com/film/ash-is-purest-white/
+2019-12-03,Timecrimes,2007,https://letterboxd.com/film/timecrimes/
+2019-12-05,I Lost My Body,2019,https://letterboxd.com/film/i-lost-my-body/
+2019-12-05,The Squid and the Whale,2005,https://letterboxd.com/film/the-squid-and-the-whale/
+2019-12-06,Man of Tai Chi,2013,https://letterboxd.com/film/man-of-tai-chi/
+2019-12-06,Dead Kids,2019,https://letterboxd.com/film/dead-kids/
+2019-12-08,Marriage Story,2019,https://letterboxd.com/film/marriage-story-2019/
+2019-12-08,The Nightingale,2018,https://letterboxd.com/film/the-nightingale-2018/
+2019-12-09,Blue Is the Warmest Color,2013,https://letterboxd.com/film/blue-is-the-warmest-color/
+2019-12-09,Dheepan,2015,https://letterboxd.com/film/dheepan/
+2019-12-09,Sweetheart,2019,https://letterboxd.com/film/sweetheart-2019/
+2019-12-09,Hair Love,2019,https://letterboxd.com/film/hair-love/
+2019-12-10,Donnie Darko,2001,https://letterboxd.com/film/donnie-darko/
+2019-12-10,Source Code,2011,https://letterboxd.com/film/source-code/
+2019-12-10,Life,2017,https://letterboxd.com/film/life-2017/
+2019-12-10,Amour,2012,https://letterboxd.com/film/amour/
+2019-12-10,Ghosts of Sugar Land,2019,https://letterboxd.com/film/ghosts-of-sugar-land/
+2019-12-12,Three on a Match,1932,https://letterboxd.com/film/three-on-a-match/
+2019-12-13,The Game,1997,https://letterboxd.com/film/the-game/
+2019-12-16,The Petrified Forest,1936,https://letterboxd.com/film/the-petrified-forest/
+2019-12-16,Kid Galahad,1937,https://letterboxd.com/film/kid-galahad/
+2019-12-16,We're Going to the Zoo,2006,https://letterboxd.com/film/were-going-to-the-zoo/
+2019-12-16,The Acquaintances of a Lonely John,2008,https://letterboxd.com/film/the-acquaintances-of-a-lonely-john/
+2019-12-16,The Black Balloon,2012,https://letterboxd.com/film/the-black-balloon-2012/
+2019-12-16,John's Gone,2010,https://letterboxd.com/film/johns-gone/
+2019-12-16,Marked Woman,1937,https://letterboxd.com/film/marked-woman/
+2019-12-17,The Villainess,2017,https://letterboxd.com/film/the-villainess/
+2019-12-18,Fast Color,2018,https://letterboxd.com/film/fast-color/
+2019-12-19,In Fabric,2018,https://letterboxd.com/film/in-fabric/
+2019-12-19,Taken,2008,https://letterboxd.com/film/taken/
+2019-12-21,Vivre Sa Vie,1962,https://letterboxd.com/film/vivre-sa-vie/
+2019-12-21,Searching,2018,https://letterboxd.com/film/searching-2018/
+2019-12-22,Atlantics,2019,https://letterboxd.com/film/atlantics-2019/
+2019-12-22,From Russia with Love,1963,https://letterboxd.com/film/from-russia-with-love/
+2019-12-22,Goldfinger,1964,https://letterboxd.com/film/goldfinger/
+2019-12-23,Thunderball,1965,https://letterboxd.com/film/thunderball/
+2019-12-23,You Only Live Twice,1967,https://letterboxd.com/film/you-only-live-twice/
+2019-12-23,On Her Majesty's Secret Service,1969,https://letterboxd.com/film/on-her-majestys-secret-service/
+2019-12-24,Diamonds Are Forever,1971,https://letterboxd.com/film/diamonds-are-forever/
+2019-12-24,Cats,2019,https://letterboxd.com/film/cats-2019/
+2019-12-24,The Irishman,2019,https://letterboxd.com/film/the-irishman-2019/
+2019-12-24,The Irishman: In Conversation,2019,https://letterboxd.com/film/the-irishman-in-conversation/
+2019-12-25,Lionheart,2018,https://letterboxd.com/film/lionheart-2018/
+2019-12-25,Dolemite Is My Name,2019,https://letterboxd.com/film/dolemite-is-my-name/
+2019-12-25,Uncut Gems,2019,https://letterboxd.com/film/uncut-gems/
+2019-12-25,The Body Remembers When the World Broke Open,2019,https://letterboxd.com/film/the-body-remembers-when-the-world-broke-open/
+2019-12-26,Star Wars: The Rise of Skywalker,2019,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/
+2019-12-26,Border,2018,https://letterboxd.com/film/border-2018/
+2019-12-26,Let the Corpses Tan,2017,https://letterboxd.com/film/let-the-corpses-tan/
+2019-12-27,The Blood on Satan's Claw,1971,https://letterboxd.com/film/the-blood-on-satans-claw/
+2019-12-27,Touching the Devil: The Making of 'Blood on Satan's Claw',2004,https://letterboxd.com/film/touching-the-devil-the-making-of-blood-on-satans-claw/
+2019-12-27,The Blood on Satan's Claw: In a League of Its Own,2005,https://letterboxd.com/film/the-blood-on-satans-claw-in-a-league-of-its-own/
+2019-12-27,The Hitchhiker's Guide to the Galaxy,2005,https://letterboxd.com/film/the-hitchhikers-guide-to-the-galaxy-2005/
+2019-12-27,Viy,1967,https://letterboxd.com/film/viy/
+2019-12-27,Portrait,1915,https://letterboxd.com/film/portrait-1915/
+2019-12-27,The Queen of Spades,1910,https://letterboxd.com/film/the-queen-of-spades-1910/
+2019-12-28,Seconds,1966,https://letterboxd.com/film/seconds/
+2019-12-28,Little Women,2019,https://letterboxd.com/film/little-women-2019/
+2019-12-28,Rebecca,1940,https://letterboxd.com/film/rebecca/
+2019-12-28,The Making of Rebecca,2008,https://letterboxd.com/film/the-making-of-rebecca/
+2019-12-29,Marty,1955,https://letterboxd.com/film/marty/
+2019-12-29,Negative Happy Chain Saw Edge,2008,https://letterboxd.com/film/negative-happy-chain-saw-edge/
+2019-12-29,Buffet Froid,1979,https://letterboxd.com/film/buffet-froid/
+2019-12-29,Broken Flowers,2005,https://letterboxd.com/film/broken-flowers/
+2019-12-29,Dead Man,1995,https://letterboxd.com/film/dead-man/
+2019-12-29,Ghost Dog: The Way of the Samurai,1999,https://letterboxd.com/film/ghost-dog-the-way-of-the-samurai/
+2019-12-29,The Matrix Reloaded,2003,https://letterboxd.com/film/the-matrix-reloaded/
+2019-12-29,The Matrix Revolutions,2003,https://letterboxd.com/film/the-matrix-revolutions/
+2019-12-29,The Animatrix,2003,https://letterboxd.com/film/the-animatrix/
+2019-12-29,Ruined Heart: Another Love Story Between a Criminal & a Whore,2014,https://letterboxd.com/film/ruined-heart-another-love-story-between-a-criminal-a-whore/
+2019-12-30,Leviathan,2014,https://letterboxd.com/film/leviathan-2014/
+2019-12-30,The Last Black Man in San Francisco,2019,https://letterboxd.com/film/the-last-black-man-in-san-francisco/
+2019-12-30,The Color Purple,1985,https://letterboxd.com/film/the-color-purple/
+2019-12-30,Twilight Zone: The Movie,1983,https://letterboxd.com/film/twilight-zone-the-movie/
+2019-12-30,Charade,1963,https://letterboxd.com/film/charade/
+2019-12-30,The Italian Job,2003,https://letterboxd.com/film/the-italian-job-2003/
+2019-12-31,Miracle in Cell No. 7,2013,https://letterboxd.com/film/miracle-in-cell-no-7/
+2019-12-31,Aniara,2018,https://letterboxd.com/film/aniara-2018/
+2019-12-31,Tin Toy,1988,https://letterboxd.com/film/tin-toy/
+2019-12-31,The Brave Little Toaster,1987,https://letterboxd.com/film/the-brave-little-toaster/
+2019-12-31,The Sword in the Stone,1963,https://letterboxd.com/film/the-sword-in-the-stone/
+2019-12-31,Prometheus,2012,https://letterboxd.com/film/prometheus/
+2019-12-31,Atomic Blonde,2017,https://letterboxd.com/film/atomic-blonde/
+2019-12-31,The Road,2009,https://letterboxd.com/film/the-road/
+2019-12-31,Monster,2003,https://letterboxd.com/film/monster/
+2019-12-31,Æon Flux,2005,https://letterboxd.com/film/on-flux-2005/
+2019-12-31,Reindeer Games,2000,https://letterboxd.com/film/reindeer-games/
+2019-12-31,X-Men: First Class,2011,https://letterboxd.com/film/x-men-first-class/
+2019-12-31,300,2006,https://letterboxd.com/film/300/
+2019-12-31,X-Men,2000,https://letterboxd.com/film/x-men/
+2019-12-31,X2,2003,https://letterboxd.com/film/x2/
+2019-12-31,The Patriot,2000,https://letterboxd.com/film/the-patriot-2000/
+2019-12-31,Robin Hood: Prince of Thieves,1991,https://letterboxd.com/film/robin-hood-prince-of-thieves/
+2019-12-31,FernGully: The Last Rainforest,1992,https://letterboxd.com/film/ferngully-the-last-rainforest/
+2019-12-31,Windtalkers,2002,https://letterboxd.com/film/windtalkers/
+2019-12-31,3:10 to Yuma,2007,https://letterboxd.com/film/310-to-yuma-2007/
+2019-12-31,Equilibrium,2002,https://letterboxd.com/film/equilibrium/
+2019-12-31,Harsh Times,2005,https://letterboxd.com/film/harsh-times/
+2020-01-01,"The Gangster, the Cop, the Devil",2019,https://letterboxd.com/film/the-gangster-the-cop-the-devil/
+2020-01-01,Unstoppable,2018,https://letterboxd.com/film/unstoppable-2018/
+2020-01-01,Black Narcissus,1947,https://letterboxd.com/film/black-narcissus/
+2020-01-02,Häxan,1922,https://letterboxd.com/film/haxan/
+2020-01-02,The Audacious Adventurer,2006,https://letterboxd.com/film/the-audacious-adventurer/
+2020-01-02,Painting with Light,2000,https://letterboxd.com/film/painting-with-light/
+2020-01-02,Monty Python and the Holy Grail,1975,https://letterboxd.com/film/monty-python-and-the-holy-grail/
+2020-01-02,Urban Rashomon,2013,https://letterboxd.com/film/urban-rashomon/
+2020-01-02,Dark Star,1974,https://letterboxd.com/film/dark-star/
+2020-01-02,Cat's Eye,1985,https://letterboxd.com/film/cats-eye/
+2020-01-02,50 First Dates,2004,https://letterboxd.com/film/50-first-dates/
+2020-01-02,Firestarter,1984,https://letterboxd.com/film/firestarter/
+2020-01-02,Misery,1990,https://letterboxd.com/film/misery/
+2020-01-02,The Mist,2007,https://letterboxd.com/film/the-mist/
+2020-01-02,Cujo,1983,https://letterboxd.com/film/cujo/
+2020-01-02,Silver Bullet,1985,https://letterboxd.com/film/silver-bullet/
+2020-01-02,Thinner,1996,https://letterboxd.com/film/thinner/
+2020-01-02,Pet Sematary II,1992,https://letterboxd.com/film/pet-sematary-ii/
+2020-01-02,The Dead Zone,2002,https://letterboxd.com/film/the-dead-zone-2002/
+2020-01-02,The Mask,1994,https://letterboxd.com/film/the-mask-1994/
+2020-01-02,Bruce Almighty,2003,https://letterboxd.com/film/bruce-almighty/
+2020-01-02,Dumb and Dumber,1994,https://letterboxd.com/film/dumb-and-dumber/
+2020-01-02,Lemony Snicket's A Series of Unfortunate Events,2004,https://letterboxd.com/film/lemony-snickets-a-series-of-unfortunate-events/
+2020-01-02,Ace Ventura: Pet Detective,1994,https://letterboxd.com/film/ace-ventura-pet-detective/
+2020-01-02,The Cable Guy,1996,https://letterboxd.com/film/the-cable-guy/
+2020-01-02,"Me, Myself & Irene",2000,https://letterboxd.com/film/me-myself-irene/
+2020-01-03,Black Swan,2010,https://letterboxd.com/film/black-swan/
+2020-01-03,We Need to Talk About Kevin,2011,https://letterboxd.com/film/we-need-to-talk-about-kevin/
+2020-01-03,Spider-Man 3,2007,https://letterboxd.com/film/spider-man-3/
+2020-01-03,American Psycho,2000,https://letterboxd.com/film/american-psycho/
+2020-01-03,What's Eating Gilbert Grape,1993,https://letterboxd.com/film/whats-eating-gilbert-grape/
+2020-01-03,Edward Scissorhands,1990,https://letterboxd.com/film/edward-scissorhands/
+2020-01-03,House of 1000 Corpses,2003,https://letterboxd.com/film/house-of-1000-corpses/
