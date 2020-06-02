@@ -128,7 +128,7 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,The Girl on the Train,2016,https://letterboxd.com/film/the-girl-on-the-train-2016/
 2019-01-02,Passengers,2016,https://letterboxd.com/film/passengers-2016/
 2019-01-02,The Windmill Massacre,2016,https://letterboxd.com/film/the-windmill-massacre/
-2019-01-02,Asamapta,2017,https://letterboxd.com/film/asamapta/
+2019-01-02,Incomplete,2017,https://letterboxd.com/film/incomplete-2017/
 2019-01-02,Ghost in the Shell,2017,https://letterboxd.com/film/ghost-in-the-shell-2017/
 2019-01-02,Abattoir,2016,https://letterboxd.com/film/abattoir/
 2019-01-02,The Midnight Meat Train,2008,https://letterboxd.com/film/the-midnight-meat-train/
@@ -270,7 +270,7 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,The Barber,2015,https://letterboxd.com/film/the-barber-2015/
 2019-01-02,Attack the Gas Station 2,2010,https://letterboxd.com/film/attack-the-gas-station-2/
 2019-01-02,Perfect Stranger,2007,https://letterboxd.com/film/perfect-stranger/
-2019-01-02,Samurai Hustle,2014,https://letterboxd.com/film/samurai-hustle/
+2019-01-02,Mission Impossible: Samurai,2014,https://letterboxd.com/film/mission-impossible-samurai/
 2019-01-02,Attack the Gas Station!,1999,https://letterboxd.com/film/attack-the-gas-station/
 2019-01-02,The Suspect,2013,https://letterboxd.com/film/the-suspect-2013-1/
 2019-01-02,Han Gong-ju,2013,https://letterboxd.com/film/han-gong-ju/
@@ -1085,7 +1085,7 @@ Date,Name,Year,Letterboxd URI
 2019-12-01,Kaleidoscope,2016,https://letterboxd.com/film/kaleidoscope-2016/
 2019-12-01,Cargo,2017,https://letterboxd.com/film/cargo-2017/
 2019-12-01,Cabin Fever,2016,https://letterboxd.com/film/cabin-fever-2016/
-2019-12-01,Day of the Dead: Bloodline,2017,https://letterboxd.com/film/day-of-the-dead-bloodline/
+2019-12-01,Day of the Dead: Bloodline,2018,https://letterboxd.com/film/day-of-the-dead-bloodline/
 2019-12-01,Forgotten,2017,https://letterboxd.com/film/forgotten-2017/
 2019-12-01,The Bros,2017,https://letterboxd.com/film/the-bros-2017/
 2019-12-01,The Chase,2017,https://letterboxd.com/film/the-chase-2017/
@@ -1205,7 +1205,7 @@ Date,Name,Year,Letterboxd URI
 2019-12-28,The Making of Rebecca,2008,https://letterboxd.com/film/the-making-of-rebecca/
 2019-12-29,Marty,1955,https://letterboxd.com/film/marty/
 2019-12-29,Negative Happy Chain Saw Edge,2008,https://letterboxd.com/film/negative-happy-chain-saw-edge/
-2019-12-29,Buffet froid,1979,https://letterboxd.com/film/buffet-froid/
+2019-12-29,Buffet Froid,1979,https://letterboxd.com/film/buffet-froid/
 2019-12-29,Broken Flowers,2005,https://letterboxd.com/film/broken-flowers/
 2019-12-29,Dead Man,1995,https://letterboxd.com/film/dead-man/
 2019-12-29,Ghost Dog: The Way of the Samurai,1999,https://letterboxd.com/film/ghost-dog-the-way-of-the-samurai/
@@ -1274,284 +1274,3 @@ Date,Name,Year,Letterboxd URI
 2020-01-03,What's Eating Gilbert Grape,1993,https://letterboxd.com/film/whats-eating-gilbert-grape/
 2020-01-03,Edward Scissorhands,1990,https://letterboxd.com/film/edward-scissorhands/
 2020-01-03,House of 1000 Corpses,2003,https://letterboxd.com/film/house-of-1000-corpses/
-2020-01-03,THX 1138,1971,https://letterboxd.com/film/thx-1138/
-2020-01-03,The Ewok Adventure,1984,https://letterboxd.com/film/the-ewok-adventure/
-2020-01-03,Twister,1996,https://letterboxd.com/film/twister/
-2020-01-03,The 13th Warrior,1999,https://letterboxd.com/film/the-13th-warrior/
-2020-01-03,Congo,1995,https://letterboxd.com/film/congo/
-2020-01-03,Rising Sun,1993,https://letterboxd.com/film/rising-sun/
-2020-01-03,Falling Down,1993,https://letterboxd.com/film/falling-down/
-2020-01-03,Gone in Sixty Seconds,2000,https://letterboxd.com/film/gone-in-sixty-seconds/
-2020-01-03,Westworld,1973,https://letterboxd.com/film/westworld/
-2020-01-03,Planet of the Apes,1968,https://letterboxd.com/film/planet-of-the-apes/
-2020-01-03,Planet of the Apes,2001,https://letterboxd.com/film/planet-of-the-apes-2001/
-2020-01-03,Tombstone,1993,https://letterboxd.com/film/tombstone/
-2020-01-03,Hacked Circuit,2014,https://letterboxd.com/film/hacked-circuit/
-2020-01-03,Good Intentions,2018,https://letterboxd.com/film/good-intentions-2018/
-2020-01-03,Seide,2015,https://letterboxd.com/film/seide/
-2020-01-04,The Godfather: Part III,1990,https://letterboxd.com/film/the-godfather-part-iii/
-2020-01-04,Harry Potter and the Philosopher's Stone,2001,https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/
-2020-01-04,Harry Potter and the Chamber of Secrets,2002,https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/
-2020-01-04,Harry Potter and the Deathly Hallows: Part 1,2010,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-1/
-2020-01-04,Harry Potter and the Prisoner of Azkaban,2004,https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/
-2020-01-04,Harry Potter and the Half-Blood Prince,2009,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/
-2020-01-04,Harry Potter and the Goblet of Fire,2005,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/
-2020-01-04,Harry Potter and the Order of the Phoenix,2007,https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/
-2020-01-04,Captain America: The Winter Soldier,2014,https://letterboxd.com/film/captain-america-the-winter-soldier/
-2020-01-04,Hairat,2017,https://letterboxd.com/film/hairat/
-2020-01-04,Black Girl,1966,https://letterboxd.com/film/black-girl-1966/
-2020-01-04,The Wagoner,1963,https://letterboxd.com/film/the-wagoner/
-2020-01-04,Coda,2013,https://letterboxd.com/film/coda-2013/
-2020-01-04,Cloud Phenomena of Maloja,1924,https://letterboxd.com/film/cloud-phenomena-of-maloja/
-2020-01-05,The Grudge,2020,https://letterboxd.com/film/the-grudge-2020/
-2020-01-05,The Rising,2012,https://letterboxd.com/film/the-rising/
-2020-01-05,Welcome to Forever,2015,https://letterboxd.com/film/welcome-to-forever/
-2020-01-06,The Life Aquatic with Steve Zissou,2004,https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/
-2020-01-06,The Darjeeling Limited,2007,https://letterboxd.com/film/the-darjeeling-limited/
-2020-01-06,Bottle Rocket,1996,https://letterboxd.com/film/bottle-rocket-1996/
-2020-01-06,Hotel Chevalier,2007,https://letterboxd.com/film/hotel-chevalier/
-2020-01-06,Ganja & Hess,1973,https://letterboxd.com/film/ganja-hess/
-2020-01-06,The Birds,1963,https://letterboxd.com/film/the-birds/
-2020-01-06,Blackmail,1929,https://letterboxd.com/film/blackmail/
-2020-01-07,Dragged Across Concrete,2018,https://letterboxd.com/film/dragged-across-concrete/
-2020-01-07,Hanna,2011,https://letterboxd.com/film/hanna/
-2020-01-07,City of Ember,2008,https://letterboxd.com/film/city-of-ember/
-2020-01-08,The Skin Game,1931,https://letterboxd.com/film/the-skin-game/
-2020-01-08,Bad Night for the Blues,2010,https://letterboxd.com/film/bad-night-for-the-blues/
-2020-01-10,1917,2019,https://letterboxd.com/film/1917/
-2020-01-11,Daniel Isn't Real,2019,https://letterboxd.com/film/daniel-isnt-real/
-2020-01-12,Berberian Sound Studio,2012,https://letterboxd.com/film/berberian-sound-studio/
-2020-01-13,Tetsuo: The Iron Man,1989,https://letterboxd.com/film/tetsuo-the-iron-man/
-2020-01-13,The King,2019,https://letterboxd.com/film/the-king-2019/
-2020-01-13,"Look Out, Officer!",1990,https://letterboxd.com/film/look-out-officer/
-2020-01-13,Survive Style 5+,2004,https://letterboxd.com/film/survive-style-5/
-2020-01-14,What Lies Beneath,2000,https://letterboxd.com/film/what-lies-beneath/
-2020-01-14,The Ring,2002,https://letterboxd.com/film/the-ring-2002/
-2020-01-14,Ringu,1998,https://letterboxd.com/film/ringu/
-2020-01-14,Shirkers,2018,https://letterboxd.com/film/shirkers/
-2020-01-16,The Juniper Tree,1990,https://letterboxd.com/film/the-juniper-tree/
-2020-01-16,Still,1978,https://letterboxd.com/film/still-1978/
-2020-01-16,Aves,1998,https://letterboxd.com/film/aves/
-2020-01-16,Jamaica Inn,1939,https://letterboxd.com/film/jamaica-inn/
-2020-01-16,The Garden of Earthly Delights,1981,https://letterboxd.com/film/the-garden-of-earthly-delights-1981/
-2020-01-20,L'Âge d'Or,1930,https://letterboxd.com/film/lage-dor/
-2020-01-20,Spiral,1978,https://letterboxd.com/film/spiral-1978/
-2020-01-21,WHAT DID JACK DO?,2017,https://letterboxd.com/film/what-did-jack-do/
-2020-01-22,Field of Dreams,1989,https://letterboxd.com/film/field-of-dreams/
-2020-01-22,Mr. Brooks,2007,https://letterboxd.com/film/mr-brooks/
-2020-01-22,The Bodyguard,1992,https://letterboxd.com/film/the-bodyguard-1992/
-2020-01-22,Battlestar Galactica,2003,https://letterboxd.com/film/battlestar-galactica-2003/
-2020-01-22,Battlestar Galactica: Razor,2007,https://letterboxd.com/film/battlestar-galactica-razor/
-2020-01-27,The Master,2012,https://letterboxd.com/film/the-master-2012/
-2020-01-27,Six Men Getting Sick,1967,https://letterboxd.com/film/six-men-getting-sick/
-2020-01-27,The Alphabet,1968,https://letterboxd.com/film/the-alphabet/
-2020-01-27,Eraserhead,1977,https://letterboxd.com/film/eraserhead/
-2020-01-28,The Grandmother,1970,https://letterboxd.com/film/the-grandmother/
-2020-01-28,The Amputee,1974,https://letterboxd.com/film/the-amputee/
-2020-01-28,The Cowboy and the Frenchman,1988,https://letterboxd.com/film/the-cowboy-and-the-frenchman/
-2020-01-28,Batman,1989,https://letterboxd.com/film/batman-1989/
-2020-01-28,I Spit on Your Grave,2010,https://letterboxd.com/film/i-spit-on-your-grave-2010/
-2020-01-28,Premonitions Following an Evil Deed,1995,https://letterboxd.com/film/premonitions-following-an-evil-deed/
-2020-01-29,Bad Boys for Life,2020,https://letterboxd.com/film/bad-boys-for-life/
-2020-02-02,Parasite,2019,https://letterboxd.com/film/parasite-2019/
-2020-02-03,Bliss,2019,https://letterboxd.com/film/bliss-2019/
-2020-02-03,I See You,2019,https://letterboxd.com/film/i-see-you-2019/
-2020-02-04,Gretel & Hansel,2020,https://letterboxd.com/film/gretel-hansel/
-2020-02-05,The Gentlemen,2019,https://letterboxd.com/film/the-gentlemen/
-2020-02-08,Home Alone,1990,https://letterboxd.com/film/home-alone/
-2020-02-08,Home Alone 2: Lost in New York,1992,https://letterboxd.com/film/home-alone-2-lost-in-new-york/
-2020-02-08,Big,1988,https://letterboxd.com/film/big/
-2020-02-08,Awakenings,1990,https://letterboxd.com/film/awakenings/
-2020-02-08,Would You Rather,2012,https://letterboxd.com/film/would-you-rather/
-2020-02-08,Radio Flyer,1992,https://letterboxd.com/film/radio-flyer/
-2020-02-08,Road to Perdition,2002,https://letterboxd.com/film/road-to-perdition/
-2020-02-08,Splash,1984,https://letterboxd.com/film/splash/
-2020-02-08,Turner & Hooch,1989,https://letterboxd.com/film/turner-hooch/
-2020-02-08,The Money Pit,1986,https://letterboxd.com/film/the-money-pit/
-2020-02-09,Doom: Annihilation,2019,https://letterboxd.com/film/doom-annihilation/
-2020-02-09,37 Seconds,2019,https://letterboxd.com/film/37-seconds/
-2020-02-10,Okja,2017,https://letterboxd.com/film/okja/
-2020-02-13,Gate of Hell,1953,https://letterboxd.com/film/gate-of-hell/
-2020-02-13,Tungrus,2018,https://letterboxd.com/film/tungrus/
-2020-02-16,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,https://letterboxd.com/film/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn/
-2020-02-16,Fantasy Island,2020,https://letterboxd.com/film/fantasy-island/
-2020-02-16,Within Our Gates,1920,https://letterboxd.com/film/within-our-gates/
-2020-02-17,Two Knights of Vaudeville,1915,https://letterboxd.com/film/two-knights-of-vaudeville/
-2020-02-17,"Mercy, the Mummy Mumbled",1918,https://letterboxd.com/film/mercy-the-mummy-mumbled/
-2020-02-17,A Reckless Rover,1918,https://letterboxd.com/film/a-reckless-rover/
-2020-02-17,By Right of Birth,1921,https://letterboxd.com/film/by-right-of-birth/
-2020-02-17,Regeneration,1923,https://letterboxd.com/film/regeneration-1923/
-2020-02-17,Rev. S.S. Jones Home Movies,2016,https://letterboxd.com/film/rev-ss-jones-home-movies/
-2020-02-17,Religion in Early African-America Cinema,2016,https://letterboxd.com/film/religion-in-early-african-america-cinema/
-2020-02-17,The Films of Oscar Micheaux,2016,https://letterboxd.com/film/the-films-of-oscar-micheaux/
-2020-02-17,Pioneers of African-American Cinema: About the Restoration,2016,https://letterboxd.com/film/pioneers-of-african-american-cinema-about-the-restoration/
-2020-02-17,An Introduction: Pioneers of African-American Cinema,2016,https://letterboxd.com/film/an-introduction-pioneers-of-african-american-cinema/
-2020-02-17,Lamb,2015,https://letterboxd.com/film/lamb-2015/
-2020-02-18,Dirty Gertie from Harlem U.S.A.,1946,https://letterboxd.com/film/dirty-gertie-from-harlem-usa/
-2020-02-18,Mean Girls,2004,https://letterboxd.com/film/mean-girls/
-2020-02-19,The Virgin Spring,1960,https://letterboxd.com/film/the-virgin-spring/
-2020-02-24,Girl on the Third Floor,2019,https://letterboxd.com/film/girl-on-the-third-floor-2019/
-2020-02-28,Colombiana,2011,https://letterboxd.com/film/colombiana/
-2020-02-28,The Hate U Give,2018,https://letterboxd.com/film/the-hate-u-give/
-2020-02-28,Blade,1998,https://letterboxd.com/film/blade/
-2020-02-28,Demolition Man,1993,https://letterboxd.com/film/demolition-man/
-2020-02-28,Blade: Trinity,2004,https://letterboxd.com/film/blade-trinity/
-2020-02-28,Blade II,2002,https://letterboxd.com/film/blade-ii/
-2020-02-28,White Men Can't Jump,1992,https://letterboxd.com/film/white-men-cant-jump/
-2020-02-28,Money Train,1995,https://letterboxd.com/film/money-train/
-2020-02-28,The Meg,2018,https://letterboxd.com/film/the-meg/
-2020-02-28,Crank: High Voltage,2009,https://letterboxd.com/film/crank-high-voltage/
-2020-02-28,Crank,2006,https://letterboxd.com/film/crank/
-2020-02-28,The Transporter,2002,https://letterboxd.com/film/the-transporter/
-2020-02-28,Revolver,2005,https://letterboxd.com/film/revolver/
-2020-02-28,Cellular,2004,https://letterboxd.com/film/cellular/
-2020-02-28,Teenage Mutant Ninja Turtles,1990,https://letterboxd.com/film/teenage-mutant-ninja-turtles/
-2020-02-28,Romancing the Stone,1984,https://letterboxd.com/film/romancing-the-stone/
-2020-02-28,The War of the Roses,1989,https://letterboxd.com/film/the-war-of-the-roses/
-2020-02-28,The Jewel of the Nile,1985,https://letterboxd.com/film/the-jewel-of-the-nile/
-2020-02-28,The Ghost and the Darkness,1996,https://letterboxd.com/film/the-ghost-and-the-darkness/
-2020-02-29,Tommy Boy,1995,https://letterboxd.com/film/tommy-boy/
-2020-03-02,The Invisible Man,2020,https://letterboxd.com/film/the-invisible-man-2020/
-2020-03-09,VFW,2019,https://letterboxd.com/film/vfw/
-2020-03-09,Come to Daddy,2019,https://letterboxd.com/film/come-to-daddy-2019/
-2020-03-10,Tokyo Godfathers,2003,https://letterboxd.com/film/tokyo-godfathers/
-2020-03-11,Color Out of Space,2019,https://letterboxd.com/film/color-out-of-space/
-2020-03-13,The Hunt,2020,https://letterboxd.com/film/the-hunt-2020/
-2020-03-15,The Wicker Man,1973,https://letterboxd.com/film/the-wicker-man/
-2020-03-16,The Changeling,1980,https://letterboxd.com/film/the-changeling/
-2020-03-16,Bloodshot,2020,https://letterboxd.com/film/bloodshot/
-2020-03-16,47 Meters Down: Uncaged,2019,https://letterboxd.com/film/47-meters-down-uncaged/
-2020-03-17,Horsemen,2009,https://letterboxd.com/film/horsemen/
-2020-03-18,Multi-Facial,1995,https://letterboxd.com/film/multi-facial/
-2020-03-21,Satanic Panic,2019,https://letterboxd.com/film/satanic-panic-2019/
-2020-03-22,The Fantasist,1986,https://letterboxd.com/film/the-fantasist/
-2020-03-22,A Bluebird in My Heart,2018,https://letterboxd.com/film/a-bluebird-in-my-heart/
-2020-03-23,The Platform,2019,https://letterboxd.com/film/the-platform/
-2020-03-23,Predator 2,1990,https://letterboxd.com/film/predator-2/
-2020-03-23,Violence in a Women's Prison,1982,https://letterboxd.com/film/violence-in-a-womens-prison/
-2020-03-24,Furie,2019,https://letterboxd.com/film/furie/
-2020-03-26,A Nightmare on Elm Street,2010,https://letterboxd.com/film/a-nightmare-on-elm-street-2010/
-2020-03-26,In the French Style,1963,https://letterboxd.com/film/in-the-french-style/
-2020-03-26,Symbiopsychotaxiplasm: Take One,1968,https://letterboxd.com/film/symbiopsychotaxiplasm-take-one/
-2020-03-27,Miracle Mile,1988,https://letterboxd.com/film/miracle-mile/
-2020-03-29,Portrait of a Lady on Fire,2019,https://letterboxd.com/film/portrait-of-a-lady-on-fire/
-2020-03-29,Altered Carbon: Resleeved,2020,https://letterboxd.com/film/altered-carbon-resleeved/
-2020-03-29,Slow West,2015,https://letterboxd.com/film/slow-west/
-2020-03-30,Lights Out,2013,https://letterboxd.com/film/lights-out-2013/
-2020-03-30,2AM: The Smiling Man,2013,https://letterboxd.com/film/2am-the-smiling-man/
-2020-03-30,The Moonlight Man,2016,https://letterboxd.com/film/the-moonlight-man/
-2020-03-30,The Moonlight Man 2,2017,https://letterboxd.com/film/the-moonlight-man-2/
-2020-03-30,The Jigsaw,2014,https://letterboxd.com/film/the-jigsaw/
-2020-04-01,Blood Father,2016,https://letterboxd.com/film/blood-father/
-2020-04-01,Payback: Straight Up,2006,https://letterboxd.com/film/payback-straight-up/
-2020-04-04,The Great Toilet Paper Scare,2020,https://letterboxd.com/film/the-great-toilet-paper-scare/
-2020-04-04,Lethal Weapon,1987,https://letterboxd.com/film/lethal-weapon/
-2020-04-05,Snow Trail,1947,https://letterboxd.com/film/snow-trail/
-2020-04-06,Drunken Angel,1948,https://letterboxd.com/film/drunken-angel/
-2020-04-06,Bacurau,2019,https://letterboxd.com/film/bacurau/
-2020-04-06,The Follow-Up,2020,https://letterboxd.com/film/the-follow-up/
-2020-04-06,Sanjuro,1962,https://letterboxd.com/film/sanjuro/
-2020-04-06,Terrified,2017,https://letterboxd.com/film/terrified-2017/
-2020-04-06,Ares,2016,https://letterboxd.com/film/ares/
-2020-04-07,Never Rarely Sometimes Always,2020,https://letterboxd.com/film/never-rarely-sometimes-always/
-2020-04-09,Sol Levante,2020,https://letterboxd.com/film/sol-levante/
-2020-04-09,Lethal Weapon 2,1989,https://letterboxd.com/film/lethal-weapon-2/
-2020-04-10,Heathers,1988,https://letterboxd.com/film/heathers/
-2020-04-12,Extra Ordinary,2019,https://letterboxd.com/film/extra-ordinary/
-2020-04-13,Porno,2019,https://letterboxd.com/film/porno-2019/
-2020-04-15,Lethal Weapon 3,1992,https://letterboxd.com/film/lethal-weapon-3/
-2020-04-16,Tigertail,2020,https://letterboxd.com/film/tigertail/
-2020-04-17,Lethal Weapon 4,1998,https://letterboxd.com/film/lethal-weapon-4/
-2020-04-17,The Ghost Who Walks,2019,https://letterboxd.com/film/the-ghost-who-walks/
-2020-04-19,The Occupant,2020,https://letterboxd.com/film/the-occupant-2020/
-2020-04-19,The Dirty Dozen,1967,https://letterboxd.com/film/the-dirty-dozen/
-2020-04-20,The Autopsy of Jane Doe,2016,https://letterboxd.com/film/the-autopsy-of-jane-doe/
-2020-04-20,Catfish,2010,https://letterboxd.com/film/catfish/
-2020-04-20,A Sun,2019,https://letterboxd.com/film/a-sun/
-2020-04-21,Terrifier,2016,https://letterboxd.com/film/terrifier-2016/
-2020-04-22,Underwater,2020,https://letterboxd.com/film/underwater-2020/
-2020-04-24,Exhaust,2020,https://letterboxd.com/film/exhaust/
-2020-04-26,Police Story,1985,https://letterboxd.com/film/police-story/
-2020-04-27,Police Story 2,1988,https://letterboxd.com/film/police-story-2/
-2020-04-27,Police Story 3: Super Cop,1992,https://letterboxd.com/film/police-story-3-super-cop/
-2020-04-28,DESERTED STREETS OF AMSTERDAM,2020,https://letterboxd.com/film/deserted-streets-of-amsterdam/
-2020-04-28,I See You,2017,https://letterboxd.com/film/i-see-you-2017/
-2020-04-28,Underworld,2003,https://letterboxd.com/film/underworld-2003/
-2020-04-28,Underworld: Evolution,2006,https://letterboxd.com/film/underworld-evolution/
-2020-04-28,Underworld: Rise of the Lycans,2009,https://letterboxd.com/film/underworld-rise-of-the-lycans/
-2020-04-28,The Garden of Words,2013,https://letterboxd.com/film/the-garden-of-words/
-2020-04-29,Wake,2010,https://letterboxd.com/film/wake-2010/
-2020-04-29,Skintight,2018,https://letterboxd.com/film/skintight/
-2020-04-29,Suicide by Sunlight,2019,https://letterboxd.com/film/suicide-by-sunlight/
-2020-04-29,Cross Road,2014,https://letterboxd.com/film/cross-road-2014/
-2020-04-29,A Gathering of Cats,2007,https://letterboxd.com/film/a-gathering-of-cats/
-2020-04-29,Someone's Gaze,2013,https://letterboxd.com/film/someones-gaze/
-2020-04-29,Raw Deal,1986,https://letterboxd.com/film/raw-deal-1986/
-2020-05-01,Resident Evil,2002,https://letterboxd.com/film/resident-evil/
-2020-05-01,Resident Evil: Apocalypse,2004,https://letterboxd.com/film/resident-evil-apocalypse/
-2020-05-01,Resident Evil: Extinction,2007,https://letterboxd.com/film/resident-evil-extinction/
-2020-05-02,Resident Evil: Afterlife,2010,https://letterboxd.com/film/resident-evil-afterlife/
-2020-05-02,Resident Evil: Retribution,2012,https://letterboxd.com/film/resident-evil-retribution/
-2020-05-02,Resident Evil: The Final Chapter,2016,https://letterboxd.com/film/resident-evil-the-final-chapter/
-2020-05-03,Street of Crocodiles,1986,https://letterboxd.com/film/street-of-crocodiles/
-2020-05-03,Spiritual Kung Fu,1978,https://letterboxd.com/film/spiritual-kung-fu/
-2020-05-03,The Fly,1986,https://letterboxd.com/film/the-fly-1986/
-2020-05-04,On the Waterfront,1954,https://letterboxd.com/film/on-the-waterfront/
-2020-05-04,Half a Loaf of Kung Fu,1978,https://letterboxd.com/film/half-a-loaf-of-kung-fu/
-2020-05-04,My Lucky Stars,1985,https://letterboxd.com/film/my-lucky-stars/
-2020-05-05,The Heroine,1973,https://letterboxd.com/film/the-heroine/
-2020-05-06,The Foreigner,2017,https://letterboxd.com/film/the-foreigner-2017/
-2020-05-07,The Decline,2020,https://letterboxd.com/film/the-decline/
-2020-05-08,Sinister 2,2015,https://letterboxd.com/film/sinister-2/
-2020-05-08,Little Miss Sumo,2018,https://letterboxd.com/film/little-miss-sumo/
-2020-05-08,The Plagues of Breslau,2018,https://letterboxd.com/film/the-plagues-of-breslau/
-2020-05-10,Romeo Must Die,2000,https://letterboxd.com/film/romeo-must-die/
-2020-05-10,Blood Quantum,2019,https://letterboxd.com/film/blood-quantum/
-2020-05-11,The Night of the Hunter,1955,https://letterboxd.com/film/the-night-of-the-hunter/
-2020-05-11,The Fanatic,2019,https://letterboxd.com/film/the-fanatic/
-2020-05-11,Cut,2004,https://letterboxd.com/film/cut-2004/
-2020-05-11,Visitor Q,2001,https://letterboxd.com/film/visitor-q/
-2020-05-11,Gozu,2003,https://letterboxd.com/film/gozu/
-2020-05-11,Audition,1999,https://letterboxd.com/film/audition/
-2020-05-11,Ichi the Killer,2001,https://letterboxd.com/film/ichi-the-killer/
-2020-05-11,13 Assassins,2010,https://letterboxd.com/film/13-assassins/
-2020-05-11,Imprint,2006,https://letterboxd.com/film/imprint-2006/
-2020-05-11,Dead or Alive,1999,https://letterboxd.com/film/dead-or-alive/
-2020-05-11,Izo,2004,https://letterboxd.com/film/izo/
-2020-05-11,G.I. Joe: The Rise of Cobra,2009,https://letterboxd.com/film/gi-joe-the-rise-of-cobra/
-2020-05-12,Breakdown,1997,https://letterboxd.com/film/breakdown/
-2020-05-13,Berserk,1997,https://letterboxd.com/film/berserk-1997/
-2020-05-13,Berserk: The Golden Age Arc I - The Egg of the King,2012,https://letterboxd.com/film/berserk-the-golden-age-arc-i-the-egg-of-the-king/
-2020-05-14,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,https://letterboxd.com/film/berserk-the-golden-age-arc-ii-the-battle-for-doldrey/
-2020-05-14,The Mad Monk,1993,https://letterboxd.com/film/the-mad-monk/
-2020-05-15,Berserk: The Golden Age Arc III - The Advent,2013,https://letterboxd.com/film/berserk-the-golden-age-arc-iii-the-advent/
-2020-05-16,The Brothers Grimm: Bringing the Fairytale to Life,2005,https://letterboxd.com/film/the-brothers-grimm-bringing-the-fairytale-to-life/
-2020-05-18,Paradox,2017,https://letterboxd.com/film/paradox-2017/
-2020-05-19,The Wretched,2019,https://letterboxd.com/film/the-wretched/
-2020-05-20,Dracula,1931,https://letterboxd.com/film/dracula/
-2020-05-21,Flash Point,2007,https://letterboxd.com/film/flash-point/
-2020-05-21,Creature from the Black Lagoon,1954,https://letterboxd.com/film/creature-from-the-black-lagoon/
-2020-05-22,The Invisible Man,1933,https://letterboxd.com/film/the-invisible-man/
-2020-05-22,The Wolf Man,1941,https://letterboxd.com/film/the-wolf-man-1941/
-2020-05-25,Frankenstein,1931,https://letterboxd.com/film/frankenstein-1931/
-2020-05-25,The Toxic Avenger,1984,https://letterboxd.com/film/the-toxic-avenger/
-2020-05-25,Z,2019,https://letterboxd.com/film/z-2019/
-2020-05-26,The Painter and the Thief,2020,https://letterboxd.com/film/the-painter-and-the-thief-2020/
-2020-05-26,Underworld: Blood Wars,2016,https://letterboxd.com/film/underworld-blood-wars/
-2020-05-26,Haunt,2019,https://letterboxd.com/film/haunt-2019/
-2020-05-26,Johnny Mnemonic,1995,https://letterboxd.com/film/johnny-mnemonic/
-2020-05-27,Bad Samaritan,2018,https://letterboxd.com/film/bad-samaritan/
-2020-05-28,Life in Miniature,2018,https://letterboxd.com/film/life-in-miniature/
-2020-05-28,Elementary School,2018,https://letterboxd.com/film/elementary-school/
-2020-05-28,A Brief Spark Bookended by Darkness,2018,https://letterboxd.com/film/a-brief-spark-bookended-by-darkness/
-2020-05-28,The Good Mother,2017,https://letterboxd.com/film/the-good-mother-2017/
-2020-05-28,Reina,2017,https://letterboxd.com/film/reina/
-2020-05-28,Space to Explore,2018,https://letterboxd.com/film/space-to-explore/
-2020-05-28,Mid-August Lunch,2008,https://letterboxd.com/film/mid-august-lunch/
-2020-05-31,"Tulipani: Love, Honour and a Bicycle",2017,https://letterboxd.com/film/tulipani-love-honour-and-a-bicycle/
-2020-05-31,The 39 Steps,1935,https://letterboxd.com/film/the-39-steps/
-2020-06-01,RoboCop,1987,https://letterboxd.com/film/robocop/
-2020-06-01,Starship Troopers,1997,https://letterboxd.com/film/starship-troopers/
-2020-06-01,Hollow Man,2000,https://letterboxd.com/film/hollow-man/
-2020-06-02,S Is for Stanley,2015,https://letterboxd.com/film/s-is-for-stanley/
-2020-06-02,City Lights,1931,https://letterboxd.com/film/city-lights/
