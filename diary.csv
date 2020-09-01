@@ -241,7 +241,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,The Suspect,2013,https://letterboxd.com/patrickmjones/film/the-suspect-2013-1/,,,,2015-07-27
 2019-01-02,Han Gong-ju,2013,https://letterboxd.com/patrickmjones/film/han-gong-ju/,,,,2015-07-27
 2019-08-19,Attack the Gas Station!,1999,https://letterboxd.com/patrickmjones/film/attack-the-gas-station/,,Yes,,2015-07-27
-2019-01-02,Mission Impossible: Samurai,2014,https://letterboxd.com/patrickmjones/film/mission-impossible-samurai/,,,,2015-07-28
+2019-01-02,Samurai Hustle,2014,https://letterboxd.com/patrickmjones/film/samurai-hustle/,,,,2015-07-28
 2019-01-02,Attack the Gas Station 2,2010,https://letterboxd.com/patrickmjones/film/attack-the-gas-station-2/,,,,2015-07-29
 2019-01-02,Perfect Stranger,2007,https://letterboxd.com/patrickmjones/film/perfect-stranger/,,,,2015-07-29
 2019-01-02,The Barber,2015,https://letterboxd.com/patrickmjones/film/the-barber-2015/,,,,2015-08-03
@@ -456,6 +456,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-01-02,Darkness Rising,2017,https://letterboxd.com/patrickmjones/film/darkness-rising/,,,,2017-12-19
 2019-01-02,Gremlins,1984,https://letterboxd.com/patrickmjones/film/gremlins/,,,,2017-12-25
 2019-01-02,30 Days of Night,2007,https://letterboxd.com/patrickmjones/film/30-days-of-night/,,,,2018-01-08
+2020-08-29,The Shape of Water,2017,https://letterboxd.com/patrickmjones/film/the-shape-of-water/,,,"theatrical, best-picture",2018-01-10
 2019-01-02,The Open House,2018,https://letterboxd.com/patrickmjones/film/the-open-house/,,,,2018-01-21
 2019-01-02,Oculus,2013,https://letterboxd.com/patrickmjones/film/oculus/,,,,2018-01-21
 2019-01-02,Zatoichi's Flashing Sword,1964,https://letterboxd.com/patrickmjones/film/zatoichis-flashing-sword/,,,jidaigeki,2018-02-07
@@ -866,7 +867,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2019-12-24,Cats,2019,https://letterboxd.com/patrickmjones/film/cats-2019/,,,"theatrical, pre-patch, regal-unlimited",2019-12-23
 2019-12-24,The Irishman,2019,https://letterboxd.com/patrickmjones/film/the-irishman-2019/,,,"netflix, hdr",2019-12-23
 2019-12-24,The Irishman: In Conversation,2019,https://letterboxd.com/patrickmjones/film/the-irishman-in-conversation/,,,"netflix, hdr",2019-12-23
-2019-12-25,Lionheart,2018,https://letterboxd.com/patrickmjones/film/lionheart-2018/,,,netflix,2019-12-24
+2019-12-25,Lionheart,2018,https://letterboxd.com/patrickmjones/film/lionheart-2018/,,,"netflix, debut",2019-12-24
 2019-12-25,Dolemite Is My Name,2019,https://letterboxd.com/patrickmjones/film/dolemite-is-my-name/,,,"netflix, hdr",2019-12-24
 2019-12-25,Uncut Gems,2019,https://letterboxd.com/patrickmjones/film/uncut-gems/,,,"theatrical, a24, regal-unlimited",2019-12-24
 2019-12-25,The Body Remembers When the World Broke Open,2019,https://letterboxd.com/patrickmjones/film/the-body-remembers-when-the-world-broke-open/,,,"netflix, single-take",2019-12-24
@@ -931,7 +932,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-01-16,Jamaica Inn,1939,https://letterboxd.com/patrickmjones/film/jamaica-inn/,,,"criterion-channel, restored, black-and-white",2020-01-16
 2020-01-16,The Garden of Earthly Delights,1981,https://letterboxd.com/patrickmjones/film/the-garden-of-earthly-delights-1981/,,,short,2020-01-16
 2020-01-20,L'Âge d'Or,1930,https://letterboxd.com/patrickmjones/film/lage-dor/,,,"criterion-channel, black-and-white",2020-01-19
-2020-01-20,Spiral,1978,https://letterboxd.com/patrickmjones/film/spiral-1978/,,,netflix,2020-01-20
+2020-01-20,The Spiral,1978,https://letterboxd.com/patrickmjones/film/the-spiral-1978/,,,netflix,2020-01-20
 2020-01-21,WHAT DID JACK DO?,2017,https://letterboxd.com/patrickmjones/film/what-did-jack-do/,,,"black-and-white, netflix",2020-01-20
 2020-01-27,The Master,2012,https://letterboxd.com/patrickmjones/film/the-master-2012/,,,netflix,2020-01-26
 2020-01-27,Six Men Getting Sick,1967,https://letterboxd.com/patrickmjones/film/six-men-getting-sick/,,Yes,"dvd, short",2020-01-26
@@ -1016,3 +1017,243 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-04-12,Extra Ordinary,2019,https://letterboxd.com/patrickmjones/film/extra-ordinary/,,,kino-now,2020-04-11
 2020-04-13,Porno,2019,https://letterboxd.com/patrickmjones/film/porno-2019/,,,vimeo,2020-04-12
 2020-04-15,Lethal Weapon 3,1992,https://letterboxd.com/patrickmjones/film/lethal-weapon-3/,,,"netflix, post-credits-scene",2020-04-15
+2020-04-16,Tigertail,2020,https://letterboxd.com/patrickmjones/film/tigertail/,,,netflix,2020-04-15
+2020-04-17,Lethal Weapon 4,1998,https://letterboxd.com/patrickmjones/film/lethal-weapon-4/,,,netflix,2020-04-16
+2020-04-17,The Ghost Who Walks,2019,https://letterboxd.com/patrickmjones/film/the-ghost-who-walks/,,,netflix,2020-04-17
+2020-04-19,The Occupant,2020,https://letterboxd.com/patrickmjones/film/the-occupant-2020/,,,netflix,2020-04-18
+2020-04-19,The Dirty Dozen,1967,https://letterboxd.com/patrickmjones/film/the-dirty-dozen/,,,netflix,2020-04-18
+2020-04-20,The Autopsy of Jane Doe,2016,https://letterboxd.com/patrickmjones/film/the-autopsy-of-jane-doe/,,,netflix,2020-04-19
+2020-04-20,Catfish,2010,https://letterboxd.com/patrickmjones/film/catfish/,,,netflix,2020-04-19
+2020-04-20,A Sun,2019,https://letterboxd.com/patrickmjones/film/a-sun/,,,netflix,2020-04-19
+2020-04-21,Terrifier,2016,https://letterboxd.com/patrickmjones/film/terrifier-2016/,,,netflix,2020-04-20
+2020-04-24,Exhaust,2020,https://letterboxd.com/patrickmjones/film/exhaust/,,Yes,"vimeo, short",2020-04-21
+2020-04-24,Exhaust,2020,https://letterboxd.com/patrickmjones/film/exhaust/1/,,,"vimeo, short",2020-04-21
+2020-04-22,Underwater,2020,https://letterboxd.com/patrickmjones/film/underwater-2020/,,,amazon-prime,2020-04-22
+2020-04-28,DESERTED STREETS OF AMSTERDAM,2020,https://letterboxd.com/patrickmjones/film/deserted-streets-of-amsterdam/,,,"vimeo, short",2020-04-24
+2020-04-26,Police Story,1985,https://letterboxd.com/patrickmjones/film/police-story/,,,"bd, criterion-collection, remastered",2020-04-26
+2020-04-27,Police Story 2,1988,https://letterboxd.com/patrickmjones/film/police-story-2/,,,"bd, criterion-collection, remastered",2020-04-26
+2020-04-27,Police Story 3: Super Cop,1992,https://letterboxd.com/patrickmjones/film/police-story-3-super-cop/,,,,2020-04-26
+2020-04-28,Mr. Nice Guy,1997,https://letterboxd.com/patrickmjones/film/mr-nice-guy/,,,,2020-04-27
+2020-04-28,I See You,2017,https://letterboxd.com/patrickmjones/film/i-see-you-2017/,,,netflix,2020-04-28
+2020-04-28,The Garden of Words,2013,https://letterboxd.com/patrickmjones/film/the-garden-of-words/,,,"netflix, animated, post-credits-scene",2020-04-28
+2020-04-29,Wake,2010,https://letterboxd.com/patrickmjones/film/wake-2010/,,,"vimeo, short",2020-04-28
+2020-04-29,Skintight,2018,https://letterboxd.com/patrickmjones/film/skintight/,,,"short, youtube",2020-04-28
+2020-04-29,Suicide by Sunlight,2019,https://letterboxd.com/patrickmjones/film/suicide-by-sunlight/,,,"short, youtube",2020-04-28
+2020-04-29,Cross Road,2014,https://letterboxd.com/patrickmjones/film/cross-road-2014/,,,"short, youtube, animated",2020-04-28
+2020-04-29,Cats' Gathering,2007,https://letterboxd.com/patrickmjones/film/cats-gathering/,,,"short, animated, youtube",2020-04-28
+2020-04-29,Someone's Gaze,2013,https://letterboxd.com/patrickmjones/film/someones-gaze/,,,"short, youtube, animated",2020-04-28
+2020-04-29,Raw Deal,1986,https://letterboxd.com/patrickmjones/film/raw-deal-1986/,,,amazon-prime,2020-04-29
+2020-05-01,Resident Evil,2002,https://letterboxd.com/patrickmjones/film/resident-evil/,,Yes,,2020-04-30
+2020-05-01,Resident Evil: Apocalypse,2004,https://letterboxd.com/patrickmjones/film/resident-evil-apocalypse/,,Yes,,2020-04-30
+2020-05-01,Resident Evil: Extinction,2007,https://letterboxd.com/patrickmjones/film/resident-evil-extinction/,,,,2020-05-01
+2020-05-02,Resident Evil: Afterlife,2010,https://letterboxd.com/patrickmjones/film/resident-evil-afterlife/,,,,2020-05-01
+2020-05-02,Resident Evil: Retribution,2012,https://letterboxd.com/patrickmjones/film/resident-evil-retribution/,,,,2020-05-01
+2020-05-02,Resident Evil: The Final Chapter,2016,https://letterboxd.com/patrickmjones/film/resident-evil-the-final-chapter/,,,,2020-05-02
+2020-05-03,Street of Crocodiles,1986,https://letterboxd.com/patrickmjones/film/street-of-crocodiles/,,,"criterion-channel, short",2020-05-02
+2020-05-03,Spiritual Kung Fu,1978,https://letterboxd.com/patrickmjones/film/spiritual-kung-fu/,,,criterion-channel,2020-05-02
+2020-05-03,The Fly,1986,https://letterboxd.com/patrickmjones/film/the-fly-1986/,,Yes,,2020-05-03
+2020-05-04,Fearless Hyena,1979,https://letterboxd.com/patrickmjones/film/fearless-hyena/,,,"criterion-channel, debut",2020-05-03
+2020-05-04,On the Waterfront,1954,https://letterboxd.com/patrickmjones/film/on-the-waterfront/,,,"criterion-channel, black-and-white, best-picture",2020-05-03
+2020-05-04,Half a Loaf of Kung Fu,1978,https://letterboxd.com/patrickmjones/film/half-a-loaf-of-kung-fu/,,,criterion-channel,2020-05-03
+2020-05-04,My Lucky Stars,1985,https://letterboxd.com/patrickmjones/film/my-lucky-stars/,,,criterion-channel,2020-05-04
+2020-05-05,The Heroine,1973,https://letterboxd.com/patrickmjones/film/the-heroine/,,,netflix,2020-05-04
+2020-05-06,The Foreigner,2017,https://letterboxd.com/patrickmjones/film/the-foreigner-2017/,,,netflix,2020-05-06
+2020-05-07,The Decline,2020,https://letterboxd.com/patrickmjones/film/the-decline/,,,netflix,2020-05-06
+2020-05-08,Sinister 2,2015,https://letterboxd.com/patrickmjones/film/sinister-2/,,,netflix,2020-05-07
+2020-05-08,Little Miss Sumo,2018,https://letterboxd.com/patrickmjones/film/little-miss-sumo/,,,netflix,2020-05-07
+2020-05-08,The Plagues of Breslau,2018,https://letterboxd.com/patrickmjones/film/the-plagues-of-breslau/,,,netflix,2020-05-08
+2020-05-10,Romeo Must Die,2000,https://letterboxd.com/patrickmjones/film/romeo-must-die/,,,netflix,2020-05-09
+2020-05-10,Blood Quantum,2019,https://letterboxd.com/patrickmjones/film/blood-quantum/,,,"amazon-prime, shudder",2020-05-10
+2020-05-11,The Night of the Hunter,1955,https://letterboxd.com/patrickmjones/film/the-night-of-the-hunter/,,,"amazon-prime, black-and-white",2020-05-10
+2020-05-11,The Fanatic,2019,https://letterboxd.com/patrickmjones/film/the-fanatic/,,,amazon-prime,2020-05-10
+2020-05-11,Cut,2004,https://letterboxd.com/patrickmjones/film/cut-2004/,,,amazon-prime,2020-05-11
+2020-05-11,Three… Extremes,2004,https://letterboxd.com/patrickmjones/film/three-extremes/,,,amazon-prime,2020-05-11
+2020-05-12,Breakdown,1997,https://letterboxd.com/patrickmjones/film/breakdown/,,,amazon-prime,2020-05-11
+2020-05-13,Berserk: The Golden Age Arc I - The Egg of the King,2012,https://letterboxd.com/patrickmjones/film/berserk-the-golden-age-arc-i-the-egg-of-the-king/,,Yes,"netflix, animated",2020-05-12
+2020-05-14,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,https://letterboxd.com/patrickmjones/film/berserk-the-golden-age-arc-ii-the-battle-for-doldrey/,,Yes,"netflix, animated",2020-05-13
+2020-05-14,The Mad Monk,1993,https://letterboxd.com/patrickmjones/film/the-mad-monk/,,,netflix,2020-05-14
+2020-05-15,Berserk: The Golden Age Arc III - The Advent,2013,https://letterboxd.com/patrickmjones/film/berserk-the-golden-age-arc-iii-the-advent/,,Yes,"netflix, animated, post-credits-scene",2020-05-14
+2020-05-18,Paradox,2017,https://letterboxd.com/patrickmjones/film/paradox-2017/,,,amazon-prime,2020-05-18
+2020-05-19,The Wretched,2020,https://letterboxd.com/patrickmjones/film/the-wretched/,,,amazon-prime,2020-05-18
+2020-05-20,Dracula,1931,https://letterboxd.com/patrickmjones/film/dracula/,,,"amazon-prime, black-and-white",2020-05-19
+2020-05-21,Flash Point,2007,https://letterboxd.com/patrickmjones/film/flash-point/,,,amazon-prime,2020-05-20
+2020-05-21,Creature from the Black Lagoon,1954,https://letterboxd.com/patrickmjones/film/creature-from-the-black-lagoon/,,,"amazon-prime, black-and-white",2020-05-21
+2020-05-22,The Invisible Man,1933,https://letterboxd.com/patrickmjones/film/the-invisible-man/,,,"amazon-prime, black-and-white",2020-05-21
+2020-05-22,The Wolf Man,1941,https://letterboxd.com/patrickmjones/film/the-wolf-man-1941/,,,"amazon-prime, black-and-white",2020-05-21
+2020-05-25,Frankenstein,1931,https://letterboxd.com/patrickmjones/film/frankenstein-1931/,,,"amazon-prime, black-and-white",2020-05-24
+2020-05-25,The Toxic Avenger,1984,https://letterboxd.com/patrickmjones/film/the-toxic-avenger/,,,amazon-prime,2020-05-25
+2020-05-25,Z,2019,https://letterboxd.com/patrickmjones/film/z-2019/,,,"amazon-prime, shudder",2020-05-25
+2020-05-26,The Painter and the Thief,2020,https://letterboxd.com/patrickmjones/film/the-painter-and-the-thief-2020/,,,amazon-prime,2020-05-25
+2020-05-26,Interview with the Vampire,1994,https://letterboxd.com/patrickmjones/film/interview-with-the-vampire/,,Yes,amazon-prime,2020-05-25
+2020-05-26,Underworld: Blood Wars,2016,https://letterboxd.com/patrickmjones/film/underworld-blood-wars/,,,"amazon-prime, ultra-hd-4k, debut",2020-05-26
+2020-05-26,Haunt,2019,https://letterboxd.com/patrickmjones/film/haunt-2019/,,,"amazon-prime, shudder",2020-05-26
+2020-05-27,Bad Samaritan,2018,https://letterboxd.com/patrickmjones/film/bad-samaritan/,,,amazon-prime,2020-05-27
+2020-05-28,Life in Miniature,2018,https://letterboxd.com/patrickmjones/film/life-in-miniature/,,,"vimeo, filmfest-dc, short",2020-05-27
+2020-05-28,Elementary School,2018,https://letterboxd.com/patrickmjones/film/elementary-school/,,,"short, vimeo, filmfest-dc",2020-05-27
+2020-05-28,A Brief Spark Bookended by Darkness,2018,https://letterboxd.com/patrickmjones/film/a-brief-spark-bookended-by-darkness/,,,"short, animated, vimeo, filmfest-dc",2020-05-27
+2020-05-28,The Good Mother,2017,https://letterboxd.com/patrickmjones/film/the-good-mother-2017/,,,"short, filmfest-dc, vimeo",2020-05-27
+2020-05-28,Reina,2017,https://letterboxd.com/patrickmjones/film/reina/,,,"short, filmfest-dc, vimeo",2020-05-27
+2020-05-28,Space to Explore,2018,https://letterboxd.com/patrickmjones/film/space-to-explore/,,,"short, vimeo, filmfest-dc",2020-05-27
+2020-05-28,Mid-August Lunch,2008,https://letterboxd.com/patrickmjones/film/mid-august-lunch/,,,"vimeo, debut, filmfest-dc",2020-05-28
+2020-05-31,"Tulipani: Love, Honour and a Bicycle",2017,https://letterboxd.com/patrickmjones/film/tulipani-love-honour-and-a-bicycle/,,,"vimeo, filmfest-dc",2020-05-30
+2020-05-31,The 39 Steps,1935,https://letterboxd.com/patrickmjones/film/the-39-steps/,,,"criterion-channel, black-and-white",2020-05-30
+2020-06-02,S Is for Stanley,2015,https://letterboxd.com/patrickmjones/film/s-is-for-stanley/,,,"netflix, post-credits-scene",2020-06-01
+2020-06-02,City Lights,1931,https://letterboxd.com/patrickmjones/film/city-lights/,,,"criterion-channel, black-and-white, silent",2020-06-02
+2020-06-03,Cléo from 5 to 7,1962,https://letterboxd.com/patrickmjones/film/cleo-from-5-to-7/,,,"criterion-channel, black-and-white",2020-06-02
+2020-06-03,Simon of the Desert,1965,https://letterboxd.com/patrickmjones/film/simon-of-the-desert/,,,"criterion-channel, black-and-white",2020-06-03
+2020-06-04,Prada: Candy,2013,,,,"youtube, short",2020-06-03
+2020-06-05,Blade Runner: Black Out 2022,2017,https://letterboxd.com/patrickmjones/film/blade-runner-black-out-2022/,,,"youtube, short, animated",2020-06-04
+2020-06-05,2036: Nexus Dawn,2017,https://letterboxd.com/patrickmjones/film/2036-nexus-dawn/,,,"youtube, short",2020-06-04
+2020-06-05,2048: Nowhere to Run,2017,https://letterboxd.com/patrickmjones/film/2048-nowhere-to-run/,,,"youtube, short",2020-06-04
+2020-06-05,The Human Condition I: No Greater Love,1959,https://letterboxd.com/patrickmjones/film/the-human-condition-i-no-greater-love/,,,"criterion-channel, black-and-white",2020-06-04
+2020-06-05,Cowboy Bebop: Don't Bother None,2012,https://letterboxd.com/patrickmjones/film/cowboy-bebop-dont-bother-none/,,,"short, youtube",2020-06-04
+2020-06-07,Beasts Clawing at Straws,2020,https://letterboxd.com/patrickmjones/film/beasts-clawing-at-straws/,,,"amazon-prime, debut",2020-06-06
+2020-06-07,Dear Walmart,2019,https://letterboxd.com/patrickmjones/film/dear-walmart/,,,"vimeo, filmfest-dc",2020-06-06
+2020-06-07,Division Ave,2019,https://letterboxd.com/patrickmjones/film/division-ave/,,,"short, vimeo, filmfest-dc",2020-06-06
+2020-06-07,Traces of the Soul,2018,https://letterboxd.com/patrickmjones/film/traces-of-the-soul/,,,"vimeo, filmfest-dc",2020-06-07
+2020-06-07,Lucky Grandma,2019,https://letterboxd.com/patrickmjones/film/lucky-grandma/,,,"kino-now, debut",2020-06-07
+2020-06-08,13th,2016,https://letterboxd.com/patrickmjones/film/13th/,,,netflix,2020-06-07
+2020-06-08,Thousand Pieces of Gold,1990,https://letterboxd.com/patrickmjones/film/thousand-pieces-of-gold/,,,"kino-now, debut",2020-06-07
+2020-06-09,We Are George Floyd,2020,https://letterboxd.com/patrickmjones/film/we-are-george-floyd/,,,"vimeo, short",2020-06-08
+2020-06-09,Sorry We Missed You,2019,https://letterboxd.com/patrickmjones/film/sorry-we-missed-you/,,,kino-marquee,2020-06-08
+2020-06-13,Da 5 Bloods,2020,https://letterboxd.com/patrickmjones/film/da-5-bloods/,,,netflix,2020-06-12
+2020-06-13,Das Fone Hell,2020,,,,"twitter, short",2020-06-13
+2020-06-13,Face to Face Time,2020,https://letterboxd.com/patrickmjones/film/face-to-face-time/,,,"vimeo, short",2020-06-13
+2020-06-14,Truman,2015,https://letterboxd.com/patrickmjones/film/truman-2015/,,,"filmfest-dc, vimeo",2020-06-13
+2020-06-14,8:46,2020,https://letterboxd.com/patrickmjones/film/8-46-2020/,,,youtube,2020-06-13
+2020-06-14,Shirley,2020,https://letterboxd.com/patrickmjones/film/shirley-2020/,,,amazon-prime,2020-06-14
+2020-06-15,The Witch: Part 1. The Subversion,2018,https://letterboxd.com/patrickmjones/film/the-witch-part-1-the-subversion/,,,netflix,2020-06-14
+2020-06-15,I Bought a Vampire Motorcycle,1990,https://letterboxd.com/patrickmjones/film/i-bought-a-vampire-motorcycle/,,,bd,2020-06-15
+2020-06-16,"The Execution of Mary, Queen of Scots",1895,https://letterboxd.com/patrickmjones/film/the-execution-of-mary-queen-of-scots/,,,"youtube, library-of-congress, short, black-and-white, silent",2020-06-15
+2020-06-16,Wanted: Dead or Alive,1987,https://letterboxd.com/patrickmjones/film/wanted-dead-or-alive/,,,bd,2020-06-15
+2020-06-16,The Haunted Castle,1896,https://letterboxd.com/patrickmjones/film/the-haunted-castle-1896/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,A Nightmare,1896,https://letterboxd.com/patrickmjones/film/a-nightmare/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,A Terrible Night,1896,https://letterboxd.com/patrickmjones/film/a-terrible-night/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Haunted Castle,1897,https://letterboxd.com/patrickmjones/film/the-haunted-castle-1897/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Bewitched Inn,1897,https://letterboxd.com/patrickmjones/film/the-bewitched-inn/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Hallucinated Alchemist,1897,https://letterboxd.com/patrickmjones/film/the-hallucinated-alchemist/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Haunted Castle,1897,https://letterboxd.com/patrickmjones/film/the-haunted-castle-1897-1/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Devil's Laboratory,1897,https://letterboxd.com/patrickmjones/film/the-devils-laboratory/,,,"youtube, short, black-and-white, silent",2020-06-16
+2020-06-16,The Cavalier's Dream,1898,https://letterboxd.com/patrickmjones/film/the-cavaliers-dream/,,,"youtube, black-and-white, short, silent",2020-06-16
+2020-06-16,Thunder on the Hill,1951,https://letterboxd.com/patrickmjones/film/thunder-on-the-hill/,,,"bd, black-and-white",2020-06-16
+2020-06-18,The Price of Fear,1956,https://letterboxd.com/patrickmjones/film/the-price-of-fear/,,,"black-and-white, bd",2020-06-17
+2020-06-18,The Female Animal,1958,https://letterboxd.com/patrickmjones/film/the-female-animal/,,,"black-and-white, bd",2020-06-17
+2020-06-19,"Farewell, Friend",1968,https://letterboxd.com/patrickmjones/film/farewell-friend/,,,bd,2020-06-19
+2020-06-20,Red Sun,1971,https://letterboxd.com/patrickmjones/film/red-sun/,,,criterion-channel,2020-06-19
+2020-06-21,A Hijacking,2012,https://letterboxd.com/patrickmjones/film/a-hijacking/,,,"vimeo, filmfest-dc",2020-06-21
+2020-06-21,Live and Let Die,1973,https://letterboxd.com/patrickmjones/film/live-and-let-die/,,,bd,2020-06-21
+2020-06-24,Bond 1973: The Lost Documentary,1973,https://letterboxd.com/patrickmjones/film/bond-1973-the-lost-documentary/,,,"bd, short",2020-06-21
+2020-06-23,Whirlpool,1934,https://letterboxd.com/patrickmjones/film/whirlpool-1934/,,,"criterion-channel, black-and-white, pre-code",2020-06-22
+2020-06-24,Our Village,2019,https://letterboxd.com/patrickmjones/film/our-village/,,,"youtube, korean-film-festival-dc-2020",2020-06-23
+2020-06-25,Dark Figure of Crime,2018,https://letterboxd.com/patrickmjones/film/dark-figure-of-crime/,,,"vimeo, k-cinema-at-home-2020",2020-06-24
+2020-06-26,The Men Who Tread on the Tiger's Tail,1945,https://letterboxd.com/patrickmjones/film/the-men-who-tread-on-the-tigers-tail/,,,"criterion-channel, black-and-white",2020-06-25
+2020-06-27,Sanshiro Sugata,1943,https://letterboxd.com/patrickmjones/film/sanshiro-sugata/,,,"criterion-channel, black-and-white, debut",2020-06-26
+2020-06-28,The Most Beautiful,1944,https://letterboxd.com/patrickmjones/film/the-most-beautiful/,,,"criterion-channel, black-and-white",2020-06-27
+2020-06-28,The Man with the Golden Gun,1974,https://letterboxd.com/patrickmjones/film/the-man-with-the-golden-gun/,,,bd,2020-06-27
+2020-06-28,The Spy Who Loved Me,1977,https://letterboxd.com/patrickmjones/film/the-spy-who-loved-me/,,,bd,2020-06-27
+2020-06-29,We Have Boots,2020,https://letterboxd.com/patrickmjones/film/we-have-boots/,,,"vimeo, filmfest-dc",2020-06-28
+2020-06-29,Driving Lesson,2018,https://letterboxd.com/patrickmjones/film/driving-lesson-2018-1/,,,"short, youtube, filmfest-dc",2020-06-28
+2020-06-29,Once Upon a Line,2016,https://letterboxd.com/patrickmjones/film/once-upon-a-line/,,,"short, youtube, filmfest-dc, animated",2020-06-28
+2020-06-29,Ten Meter Tower,2016,https://letterboxd.com/patrickmjones/film/ten-meter-tower/,,,"short, vimeo, filmfest-dc",2020-06-28
+2020-06-29,Moonraker,1979,https://letterboxd.com/patrickmjones/film/moonraker/,,,bd,2020-06-28
+2020-06-29,Inside 'Moonraker',2000,https://letterboxd.com/patrickmjones/film/inside-moonraker/,,,bd,2020-06-28
+2020-06-29,The Men Behind the Mayhem: The Special Effects of James Bond,2000,https://letterboxd.com/patrickmjones/film/the-men-behind-the-mayhem-the-special-effects-of-james-bond/,,,"bd, short",2020-06-28
+2020-06-30,Columbus,2017,https://letterboxd.com/patrickmjones/film/columbus-2017/,,,criterion-channel,2020-06-29
+2020-07-01,Long Day's Journey Into Night,2018,https://letterboxd.com/patrickmjones/film/long-days-journey-into-night-2018/,,,criterion-channel,2020-06-30
+2020-07-02,Child's Play,2019,https://letterboxd.com/patrickmjones/film/childs-play-2019/,,,amazon-prime,2020-07-01
+2020-07-03,Pyewacket,2017,https://letterboxd.com/patrickmjones/film/pyewacket/,,,amazon-prime,2020-07-02
+2020-07-04,House of Hummingbird,2018,https://letterboxd.com/patrickmjones/film/house-of-hummingbird/,,,kino-now,2020-07-03
+2020-07-04,WolfCop,2014,https://letterboxd.com/patrickmjones/film/wolfcop/,,,"amazon-prime, shudder, post-credits-scene",2020-07-03
+2020-07-05,The Void,2016,https://letterboxd.com/patrickmjones/film/the-void-2016/1/,,Yes,amazon-prime,2020-07-04
+2020-07-05,House,1977,https://letterboxd.com/patrickmjones/film/house/,,,criterion-channel,2020-07-04
+2020-07-05,Constructing a House,2010,https://letterboxd.com/patrickmjones/film/constructing-a-house/,,,criterion-channel,2020-07-04
+2020-07-05,Trick or Truth,2014,https://letterboxd.com/patrickmjones/film/trick-or-truth/,,,"criterion-channel, short",2020-07-04
+2020-07-06,Emotion,1966,https://letterboxd.com/patrickmjones/film/emotion/,,,"criterion-channel, short",2020-07-05
+2020-07-06,Bath House,2014,https://letterboxd.com/patrickmjones/film/bath-house/,,,"criterion-channel, short",2020-07-05
+2020-07-06,I'm No Longer Here,2019,https://letterboxd.com/patrickmjones/film/im-no-longer-here/,,,netflix,2020-07-05
+2020-07-06,Crickets,2020,https://letterboxd.com/patrickmjones/film/crickets-2020/,,,"netflix, short",2020-07-05
+2020-07-07,Malevolent,2018,https://letterboxd.com/patrickmjones/film/malevolent-2018/,,,netflix,2020-07-06
+2020-07-09,Another WolfCop,2016,https://letterboxd.com/patrickmjones/film/another-wolfcop/,,,"amazon-prime, post-credits-scene",2020-07-08
+2020-07-10,Anaconda,1997,https://letterboxd.com/patrickmjones/film/anaconda/,,,amazon-prime,2020-07-10
+2020-07-12,Relic,2020,https://letterboxd.com/patrickmjones/film/relic/,,,amazon-prime,2020-07-11
+2020-07-13,The Beach House,2019,https://letterboxd.com/patrickmjones/film/film:558622/,,,"amazon-prime, shudder",2020-07-12
+2020-07-13,The Lodge,2019,https://letterboxd.com/patrickmjones/film/the-lodge-2019/,,,amazon-prime,2020-07-12
+2020-07-13,Sea Fever,2019,https://letterboxd.com/patrickmjones/film/sea-fever-2019/,,,"amazon-prime, debut",2020-07-12
+2020-07-14,Let Us Prey,2014,https://letterboxd.com/patrickmjones/film/let-us-prey/,,,"amazon-prime, shudder, debut",2020-07-13
+2020-07-16,Chasing Dream,2019,https://letterboxd.com/patrickmjones/film/chasing-dream/,,,"eventive, made-in-hong-kong-film-fest",2020-07-14
+2020-07-17,Fagara,2019,https://letterboxd.com/patrickmjones/film/fagara/,,,"made-in-hong-kong-film-fest, eventive",2020-07-16
+2020-07-18,Metroid: The Sky Calls,2015,https://letterboxd.com/patrickmjones/film/metroid-the-sky-calls/,,,"youtube, short",2020-07-17
+2020-07-18,Line Walker 2: Invisible Spy,2019,https://letterboxd.com/patrickmjones/film/line-walker-2-invisible-spy/,,,"eventive, made-in-hong-kong-film-fest",2020-07-17
+2020-07-19,Ordinary People,2016,https://letterboxd.com/patrickmjones/film/ordinary-people-2016/,,,netflix,2020-07-18
+2020-07-19,A Witness Out of the Blue,2019,https://letterboxd.com/patrickmjones/film/a-witness-out-of-the-blue/,,,"eventive, made-in-hong-kong-film-fest",2020-07-18
+2020-07-20,Suk Suk,2019,https://letterboxd.com/patrickmjones/film/suk-suk/,,,"eventive, made-in-hong-kong-film-fest",2020-07-19
+2020-07-20,Don't Knock Twice,2016,https://letterboxd.com/patrickmjones/film/dont-knock-twice/,,,netflix,2020-07-19
+2020-07-20,The Blood Drinkers,1964,https://letterboxd.com/patrickmjones/film/the-blood-drinkers/,,,bd,2020-07-19
+2020-07-21,In Event of Moon Disaster,2019,https://letterboxd.com/patrickmjones/film/in-event-of-moon-disaster/,,,"vimeo, short",2020-07-20
+2020-07-24,Hot Dog,2020,https://letterboxd.com/patrickmjones/film/hot-dog-2020/,,,"vimeo, short",2020-07-23
+2020-07-25,Commando,1985,https://letterboxd.com/patrickmjones/film/commando/1/,,Yes,bd,2020-07-24
+2020-07-26,First Blood,1982,https://letterboxd.com/patrickmjones/film/first-blood/,,,uhd-bd,2020-07-26
+2020-07-26,Drawing First Blood,,https://letterboxd.com/patrickmjones/film/drawing-first-blood/,,,"short, bd",2020-07-26
+2020-07-27,Lady Snowblood,1973,https://letterboxd.com/patrickmjones/film/lady-snowblood/,,Yes,"bd, criterion-collection, jidaigeki",2020-07-26
+2020-07-27,Lady Snowblood 2: Love Song of Vengeance,1974,https://letterboxd.com/patrickmjones/film/lady-snowblood-2-love-song-of-vengeance/,,Yes,"bd, criterion-collection, jidaigeki",2020-07-27
+2020-07-28,Predators,2010,https://letterboxd.com/patrickmjones/film/predators/,,,uhd-bd,2020-07-27
+2020-07-28,Predators: The Chosen,2010,https://letterboxd.com/patrickmjones/film/predators-the-chosen/,,,"bd, short",2020-07-27
+2020-07-28,Predators: Moments of Extraction,2010,https://letterboxd.com/patrickmjones/film/predators-moments-of-extraction/,,,"bd, short",2020-07-27
+2020-07-28,Predators: Crucified,2010,https://letterboxd.com/patrickmjones/film/predators-crucified/,,,"bd, short",2020-07-27
+2020-07-29,The Rental,2020,https://letterboxd.com/patrickmjones/film/the-rental/,,,"amazon-prime, debut",2020-07-29
+2020-07-30,Sleepaway Camp,1983,https://letterboxd.com/patrickmjones/film/sleepaway-camp/,,,"amazon-prime, shudder",2020-07-29
+2020-08-01,Host,2020,https://letterboxd.com/patrickmjones/film/host-2020/,,,"amazon-prime, shudder",2020-07-31
+2020-08-02,First Cow,2019,https://letterboxd.com/patrickmjones/film/first-cow/,,,amazon-prime,2020-08-01
+2020-08-02,Phenomena,1985,https://letterboxd.com/patrickmjones/film/phenomena/,,,amazon-prime,2020-08-02
+2020-08-03,The Last House on the Left,1972,https://letterboxd.com/patrickmjones/film/the-last-house-on-the-left/,,,"criterion-channel, debut",2020-08-02
+2020-08-03,Repo Man,1984,https://letterboxd.com/patrickmjones/film/repo-man/,,,"criterion-collection, bd",2020-08-02
+2020-08-03,You Should Have Left,2020,https://letterboxd.com/patrickmjones/film/you-should-have-left/,,,amazon-prime,2020-08-02
+2020-08-03,1BR,2019,https://letterboxd.com/patrickmjones/film/1br/,,,"amazon-prime, debut",2020-08-03
+2020-08-04,Spaceship Earth,2020,https://letterboxd.com/patrickmjones/film/spaceship-earth-2020/,,,amazon-prime,2020-08-03
+2020-08-08,Jack the Ripper,1959,https://letterboxd.com/patrickmjones/film/jack-the-ripper-1959/,,,"bd, black-and-white",2020-08-07
+2020-08-08,8 Million Ways to Die,1986,https://letterboxd.com/patrickmjones/film/8-million-ways-to-die/,,,bd,2020-08-08
+2020-08-09,She Dies Tomorrow,2020,https://letterboxd.com/patrickmjones/film/she-dies-tomorrow/,,,amazon-prime,2020-08-08
+2020-08-09,Detective,1985,https://letterboxd.com/patrickmjones/film/detective/,,,bd,2020-08-08
+2020-08-10,Scanners,1981,https://letterboxd.com/patrickmjones/film/scanners/,,,criterion-collection,2020-08-09
+2020-08-10,The Flying Train,1902,https://letterboxd.com/patrickmjones/film/the-flying-train/,,,"short, black-and-white, youtube, restored",2020-08-09
+2020-08-10,La Llorona,2019,https://letterboxd.com/patrickmjones/film/la-llorona-2019-1/,,,"amazon-prime, shudder",2020-08-09
+2020-08-10,Yummy,2019,https://letterboxd.com/patrickmjones/film/yummy/,,,"amazon-prime, shudder",2020-08-10
+2020-08-11,Night of the Living Dead,1968,https://letterboxd.com/patrickmjones/film/night-of-the-living-dead/,,,"amazon-prime, black-and-white, best-picture, debut",2020-08-10
+2020-08-15,Bio-Dome,1996,https://letterboxd.com/patrickmjones/film/bio-dome/,,Yes,amazon-prime,2020-08-14
+2020-08-16,Encino Man,1992,https://letterboxd.com/patrickmjones/film/encino-man/,,,amazon-prime,2020-08-15
+2020-08-16,Jury Duty,1995,https://letterboxd.com/patrickmjones/film/jury-duty/,,,amazon-prime,2020-08-15
+2020-08-16,Son in Law,1993,https://letterboxd.com/patrickmjones/film/son-in-law/,,,amazon-prime,2020-08-15
+2020-08-17,In the Army Now,1994,https://letterboxd.com/patrickmjones/film/in-the-army-now/,,,amazon-prime,2020-08-16
+2020-08-17,Clerks,1994,https://letterboxd.com/patrickmjones/film/clerks/,,,"amazon-prime, black-and-white, debut",2020-08-16
+2020-08-17,The Flying Car,2002,https://letterboxd.com/patrickmjones/film/the-flying-car/,,,"short, youtube",2020-08-16
+2020-08-17,Mallrats,1995,https://letterboxd.com/patrickmjones/film/mallrats/,,,amazon-prime,2020-08-16
+2020-08-17,Sin City Psycho,2018,https://letterboxd.com/patrickmjones/film/sin-city-psycho/,,,"amazon-prime, short",2020-08-16
+2020-08-17,Only Lovers Left Alive,2013,https://letterboxd.com/patrickmjones/film/only-lovers-left-alive/,,,amazon-prime,2020-08-16
+2020-08-18,Black Water: Abyss,2020,https://letterboxd.com/patrickmjones/film/black-water-abyss/,,,amazon-prime,2020-08-17
+2020-08-18,Aquaslash,2019,https://letterboxd.com/patrickmjones/film/aquaslash/,,,"amazon-prime, post-credits-scene",2020-08-17
+2020-08-19,Kaikou The Encounter,2016,https://letterboxd.com/patrickmjones/film/kaikou-the-encounter/,,,amazon-prime,2020-08-19
+2020-08-23,Chasing Amy,1997,https://letterboxd.com/patrickmjones/film/chasing-amy/,,,amazon-prime,2020-08-22
+2020-08-24,The Silencing,2020,https://letterboxd.com/patrickmjones/film/the-silencing/,,,amazon-prime,2020-08-23
+2020-08-24,The Meg,2018,https://letterboxd.com/patrickmjones/film/the-meg/,,,uhd-bd,2020-08-23
+2020-08-24,Sputnik,2020,https://letterboxd.com/patrickmjones/film/sputnik-2020/,,,amazon-prime,2020-08-23
+2020-08-25,The Legacy of the Bones,2019,https://letterboxd.com/patrickmjones/film/the-legacy-of-the-bones/,,,"netflix, ultra-hd-4k",2020-08-24
+2020-08-26,Offering to the Storm,2020,https://letterboxd.com/patrickmjones/film/offering-to-the-storm/,,,"netflix, ultra-hd-4k",2020-08-25
+2020-08-26,Elizabeth Harvest,2018,https://letterboxd.com/patrickmjones/film/elizabeth-harvest/,,,netflix,2020-08-25
+2020-08-27,Nobody Knows I'm Here,2020,https://letterboxd.com/patrickmjones/film/nobody-knows-im-here/,,,"netflix, ultra-hd-4k, debut",2020-08-26
+2020-08-28,Illang: The Wolf Brigade,2018,https://letterboxd.com/patrickmjones/film/illang-the-wolf-brigade/,,,netflix,2020-08-27
+2020-08-29,My Lucky Stars,1985,https://letterboxd.com/patrickmjones/film/my-lucky-stars/1/,,Yes,"made-in-hong-kong-film-fest, 36-cinema",2020-08-28
+2020-08-30,Husbands,1970,https://letterboxd.com/patrickmjones/film/husbands/,,,criterion-channel,2020-08-29
+2020-08-30,Bill & Ted Face the Music,2020,https://letterboxd.com/patrickmjones/film/bill-ted-face-the-music/,,,"amazon-prime, post-credits-scene",2020-08-29
+2020-08-31,The Cabinet of Dr. Caligari,1920,https://letterboxd.com/patrickmjones/film/the-cabinet-of-dr-caligari-1920/,,,"criterion-channel, black-and-white, silent",2020-08-30
+2020-08-31,Poetry,2010,https://letterboxd.com/patrickmjones/film/poetry/,,,bd,2020-08-30
+2020-08-31,John Was Trying to Contact Aliens,2020,https://letterboxd.com/patrickmjones/film/john-was-trying-to-contact-aliens/,,,short,2020-08-30
+2020-08-31,Uncharted: Live Action Fan Film,2018,https://letterboxd.com/patrickmjones/film/uncharted-live-action-fan-film-2018/,,,"youtube, short",2020-08-30
+2020-08-31,"Santa, the Fascist Years",2008,https://letterboxd.com/patrickmjones/film/santa-the-fascist-years/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,Your Face,1987,https://letterboxd.com/patrickmjones/film/your-face/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,How to Kiss,1989,https://letterboxd.com/patrickmjones/film/how-to-kiss/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,One of Those Days,1988,https://letterboxd.com/patrickmjones/film/one-of-those-days-1988/,,,"short, criterion-channel, animated",2020-08-30
+2020-08-31,25 Ways to Quit Smoking,1989,https://letterboxd.com/patrickmjones/film/25-ways-to-quit-smoking/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,The Wiseman,1991,https://letterboxd.com/patrickmjones/film/the-wiseman/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,Push Comes to Shove,1991,https://letterboxd.com/patrickmjones/film/push-comes-to-shove/,,,"criterion-channel, short, animated",2020-08-30
+2020-08-31,Where the Wild Things Are,2009,https://letterboxd.com/patrickmjones/film/where-the-wild-things-are/,,,amazon-prime,2020-08-31
+2020-09-01,Happy Happy Joy Joy: The Ren & Stimpy Story​,2020,https://letterboxd.com/patrickmjones/film/happy-happy-joy-joy-the-ren-stimpy-story/,,,amazon-prime,2020-08-31
